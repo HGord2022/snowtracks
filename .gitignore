@@ -1,1 +1,6 @@
 *.dmp
+*.fa
+*.fa.gz
+*.bam
+*.bam.gz
+*.DS_Store
