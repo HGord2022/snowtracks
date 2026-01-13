@@ -1,0 +1,25 @@
+Sample_Name	Library_ID	Lane	Colour_Chemistry	SeqType	Organism	Strandedness	UDG_Treatment	R1	R2	BAM
+HokkaidoSouth1 	HokkaidoSouth1 	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276774_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276774_2.fastq.gz	NA
+HokkaidoSouth2	HokkaidoSouth2	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276775_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276775_2.fastq.gz	NA
+HokkaidoCentral1	HokkaidoCentral1	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276776_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276776_2.fastq.gz	NA
+HokkaidoCentral2 	HokkaidoCentral2 	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276777_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276777_2.fastq.gz	NA
+HokkaidoEast1	HokkaidoEast1	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276778_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276778_2.fastq.gz	NA
+HokkaidoEast2 	HokkaidoEast2 	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276779_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR276779_2.fastq.gz	NA
+Amur6	Amur6	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541279_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541279_2.fastq.gz	NA
+Etorofu	Etorofu	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541280_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541280_2.fastq.gz	NA
+China1	China1	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541281_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541281_2.fastq.gz	NA
+China1	China1	2	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541282_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541282_2.fastq.gz	NA
+IranOshnoviyeh	IranOshnoviyeh	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541283_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541283_2.fastq.gz	NA
+IranOshnoviyeh	IranOshnoviyeh	2	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541284_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541284_2.fastq.gz	NA
+Kazakhstan	Kazakhstan	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541285_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541285_2.fastq.gz	NA
+Kazakhstan	Kazakhstan	2	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541286_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541286_2.fastq.gz	NA
+FarEast12	FarEast12	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541287_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541287_2.fastq.gz	NA
+China2	China2	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541288_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541288_2.fastq.gz	NA
+Sochi	Sochi	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541289_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541289_2.fastq.gz	NA
+Sochi	Sochi	2	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541290_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541290_2.fastq.gz	NA
+CentralRussia6	CentralRussia6	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541291_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/DRR541291_2.fastq.gz	NA
+ABC11	ABC11	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR1692419_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR1692419_2.fastq.gz	NA
+ABC12 	ABC12 	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR1693624_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR1693624_2.fastq.gz	NA
+Sweden3 	Sweden3 	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR1693654_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR1693654_2.fastq.gz	NA
+ABC10 	ABC10 	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR830213_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR830213_2.fastq.gz	NA
+Alaska3	Alaska3	1	2	PE	Ursus arctos	double	none	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR830337_1.fastq.gz	/gpfs/data/bergstrom/harry/bears/extra_raw/SRR830337_2.fastq.gz	NA
