@@ -1,0 +1,198 @@
+AdapterRemoval ver. 2.3.2
+Trimming of paired-end reads
+
+
+[Adapter sequences]
+Adapter1[1]: AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC
+Adapter2[1]: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA
+
+
+[Adapter trimming]
+RNG seed: 1674711404
+Alignment shift value: 2
+Global mismatch threshold: 0.333333
+Quality format (input): Phred+33
+Quality score max (input): 41
+Quality format (output): Phred+33
+Quality score max (output): 41
+Mate-number separator (input): '/'
+Trimming 5p: 0
+Trimming 3p: 0
+Trimming Ns: Yes
+Trimming Phred scores <= 20: Yes
+Trimming using sliding windows: No
+Minimum genomic length: 30
+Maximum genomic length: 4294967295
+Collapse overlapping reads: No
+Deterministic collapse: No
+Conservative collapse: No
+Minimum overlap (in case of collapse): 11
+
+
+[Trimming statistics]
+Total number of read pairs: 200520097
+Number of unaligned read pairs: 138852903
+Number of well aligned read pairs: 61667194
+Number of discarded mate 1 reads: 9
+Number of singleton mate 1 reads: 1
+Number of discarded mate 2 reads: 10
+Number of singleton mate 2 reads: 0
+Number of reads with adapters[1]: 8
+Number of retained reads: 401040175
+Number of retained nucleotides: 60113482560
+Average length of retained reads: 149.894
+
+
+[Length distribution]
+Length	Mate1	Mate2	Singleton	Discarded	All
+0	0	0	0	0	0
+1	0	0	0	0	0
+2	0	0	0	0	0
+3	0	0	0	0	0
+4	0	0	0	0	0
+5	0	0	0	0	0
+6	0	0	0	0	0
+7	0	0	0	0	0
+8	0	0	0	0	0
+9	0	0	0	0	0
+10	0	0	0	0	0
+11	0	0	0	1	1
+12	0	0	0	0	0
+13	0	0	0	0	0
+14	0	0	0	0	0
+15	0	0	0	0	0
+16	0	0	0	2	2
+17	0	0	0	1	1
+18	0	0	0	0	0
+19	0	0	0	1	1
+20	0	0	0	1	1
+21	0	0	0	2	2
+22	0	0	0	1	1
+23	0	0	0	1	1
+24	0	0	0	4	4
+25	0	0	0	2	2
+26	0	0	0	0	0
+27	0	0	0	0	0
+28	0	0	0	2	2
+29	0	0	0	1	1
+30	0	1	1	0	2
+31	2	1	0	0	3
+32	0	0	0	0	0
+33	0	0	0	0	0
+34	0	0	0	0	0
+35	0	0	0	0	0
+36	1	0	0	0	1
+37	0	1	0	0	1
+38	0	1	0	0	1
+39	0	1	0	0	1
+40	1	0	0	0	1
+41	0	0	0	0	0
+42	0	0	0	0	0
+43	0	0	0	0	0
+44	0	0	0	0	0
+45	0	0	0	0	0
+46	1	1	0	0	2
+47	0	1	0	0	1
+48	4	2	0	0	6
+49	2	2	0	0	4
+50	1	0	0	0	1
+51	1	1	0	0	2
+52	2	3	0	0	5
+53	1	1	0	0	2
+54	0	2	0	0	2
+55	0	0	0	0	0
+56	3	2	0	0	5
+57	2	2	0	0	4
+58	4	0	0	0	4
+59	0	3	0	0	3
+60	1	2	0	0	3
+61	3	3	0	0	6
+62	2	2	0	0	4
+63	5	1	0	0	6
+64	1	6	0	0	7
+65	3	2	0	0	5
+66	4	1	0	0	5
+67	2	5	0	0	7
+68	1	2	0	0	3
+69	3	2	0	0	5
+70	4	2	0	0	6
+71	3	2	0	0	5
+72	0	2	0	0	2
+73	6	6	0	0	12
+74	6	4	0	0	10
+75	5	5	0	0	10
+76	4	3	0	0	7
+77	4	1	0	0	5
+78	5	9	0	0	14
+79	10	8	0	0	18
+80	9	12	0	0	21
+81	8	7	0	0	15
+82	3	11	0	0	14
+83	4	5	0	0	9
+84	6	7	0	0	13
+85	8	13	0	0	21
+86	8	7	0	0	15
+87	7	6	0	0	13
+88	6	9	0	0	15
+89	10	3	0	0	13
+90	16	16	0	0	32
+91	7	10	0	0	17
+92	10	12	0	0	22
+93	13	14	0	0	27
+94	16	7	0	0	23
+95	9	12	0	0	21
+96	13	12	0	0	25
+97	12	16	0	0	28
+98	16	10	0	0	26
+99	15	14	0	0	29
+100	16	14	0	0	30
+101	18	24	0	0	42
+102	17	14	0	0	31
+103	18	22	0	0	40
+104	22	12	0	0	34
+105	19	24	0	0	43
+106	20	29	0	0	49
+107	25	30	0	0	55
+108	20	17	0	0	37
+109	23	33	0	0	56
+110	24	21	0	0	45
+111	31	26	0	0	57
+112	23	26	0	0	49
+113	26	29	0	0	55
+114	32	35	0	0	67
+115	25	28	0	0	53
+116	32	33	0	0	65
+117	33	32	0	0	65
+118	44	59	0	0	103
+119	36	41	0	0	77
+120	51	48	0	0	99
+121	50	60	0	0	110
+122	47	67	0	0	114
+123	60	89	0	0	149
+124	63	86	0	0	149
+125	82	126	0	0	208
+126	79	158	0	0	237
+127	100	173	0	0	273
+128	140	192	0	0	332
+129	133	238	0	0	371
+130	206	352	0	0	558
+131	282	496	0	0	778
+132	330	650	0	0	980
+133	454	920	0	0	1374
+134	643	1301	0	0	1944
+135	833	1755	0	0	2588
+136	1173	2619	0	0	3792
+137	1839	3935	0	0	5774
+138	2579	5970	0	0	8549
+139	3887	8984	0	0	12871
+140	5950	13803	0	0	19753
+141	9375	21971	0	0	31346
+142	15019	36473	0	0	51492
+143	25221	61490	0	0	86711
+144	43879	110568	0	0	154447
+145	82768	208493	0	0	291261
+146	168126	417508	0	0	585634
+147	402918	931496	0	0	1334414
+148	1396717	2637668	0	0	4034385
+149	9604442	14003678	0	0	23608120
+150	188751844	182047875	0	0	370799719
