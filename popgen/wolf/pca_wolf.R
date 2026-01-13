@@ -1,0 +1,192 @@
+# === Load required libraries ===
+library(tidyverse)
+setwd("~/github_repos/snowtracks/popgen/wolf")
+# === File paths ===
+evec_file <- "wolf_proj.evec"
+eigval_file <- "wolf_proj.eigenvalues"
+pop_file  <- "populations.txt"
+
+# === Read eigenvectors (.evec) ===
+evec <- read_table2(
+  evec_file,
+  comment = "#",
+  col_names = FALSE
+)
+evec = evec[-1,]
+
+# Automatically detect number of PCs
+num_pcs <- ncol(evec) - 2
+pc_names <- paste0("PC", 1:num_pcs)
+colnames(evec) <- c("sample", pc_names, "sample_dup")
+evec <- evec %>% select(-sample_dup)
+
+# === Read eigenvalues (.eigenvalues) ===
+eigvals <- read_table2(eigval_file, col_names = FALSE) %>% pull(X1)
+var_explained <- eigvals / sum(eigvals) * 100
+
+# === Read population info ===
+pop <- read_tsv(pop_file, col_names = FALSE, trim_ws = TRUE)
+colnames(pop)[1:2] <- c("sample", "population")
+
+# === Merge data ===
+merged <- left_join(evec, pop, by = "sample")
+
+
+# === Define highlighted samples, colors, and legend labels ===
+highlight_colors <- c(
+  CX113F    = "#E41A1C",  # red
+  Neige_2_3 = "#377EB8",  # blue
+  Neige_3_2 = "#4DAF4A",  # green
+  Neige_4   = "#984EA3"   # purple
+)
+
+highlight_labels <- c(
+  CX113F    = "CX113F - Slovenia, 0.08x",
+  Neige_2_3 = "Neige_2_3 - France, 27x",
+  Neige_3_2 = "Neige_3_2 - France, 0.04x",
+  Neige_4   = "Neige_4 - France, 0.01x"
+)
+
+highlight_samples <- names(highlight_colors)
+
+merged <- merged %>%
+  mutate(
+    highlight = sample %in% highlight_samples,
+    highlight_color = if_else(highlight, highlight_colors[sample], NA_character_)
+  )
+
+
+# === Plot PCA (PC1 vs PC2) ===
+p1 <- ggplot() +
+  # Regular samples (circles, by population)
+  geom_point(
+    data = merged %>% filter(!highlight),
+    aes(x = PC1, y = PC2, color = population),
+    size = 3
+  ) +
+  # Highlighted samples (triangles, unique colors)
+  geom_point(
+    data = merged %>% filter(highlight),
+    aes(x = PC1, y = PC2, fill = sample),
+    shape = 24, color = "black", size = 5, stroke = 1.2
+  ) +
+  scale_color_discrete(name = "Population") +
+  scale_fill_manual(
+    name = "Highlighted samples",
+    values = highlight_colors,
+    labels = highlight_labels,
+    guide = guide_legend(override.aes = list(shape = 24, size = 5, color = "black"))
+  ) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = paste0("PC1 (", round(var_explained[1], 1), "%)"),
+    y = paste0("PC2 (", round(var_explained[2], 1), "%)")
+  ) +
+  theme(
+    legend.position = "right",
+    panel.grid.minor = element_blank()
+  )
+
+show(p1)
+
+ggsave("wolf_pca_PC1_PC2.png", plot = p1, width = 8, height = 6, dpi = 300)
+
+# === Plot PCA (PC2 vs PC3) ===
+p2 <- ggplot() +
+  geom_point(
+    data = merged %>% filter(!highlight),
+    aes(x = PC2, y = PC3, color = population),
+    size = 3
+  ) +
+  geom_point(
+    data = merged %>% filter(highlight),
+    aes(x = PC2, y = PC3, fill = sample),
+    shape = 24, color = "black", size = 5, stroke = 1.2
+  ) +
+  scale_color_discrete(name = "Population") +
+  scale_fill_manual(
+    name = "Highlighted samples",
+    values = highlight_colors,
+    labels = highlight_labels,
+    guide = guide_legend(override.aes = list(shape = 24, size = 5, color = "black"))
+  ) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = paste0("PC2 (", round(var_explained[3], 1), "%)"),
+    y = paste0("PC3 (", round(var_explained[4], 1), "%)")
+  ) +
+  theme(
+    legend.position = "right",
+    panel.grid.minor = element_blank()
+  )
+
+show(p2)
+
+ggsave("wolf_pca_PC2_PC3.png", plot = p2, width = 8, height = 6, dpi = 300)
+
+# === Plot PCA (PC1 vs PC3) ===
+p2 <- ggplot() +
+  geom_point(
+    data = merged %>% filter(!highlight),
+    aes(x = PC1, y = PC3, color = population),
+    size = 3
+  ) +
+  geom_point(
+    data = merged %>% filter(highlight),
+    aes(x = PC1, y = PC3, fill = sample),
+    shape = 24, color = "black", size = 5, stroke = 1.2
+  ) +
+  scale_color_discrete(name = "Population") +
+  scale_fill_manual(
+    name = "Highlighted samples",
+    values = highlight_colors,
+    labels = highlight_labels,
+    guide = guide_legend(override.aes = list(shape = 24, size = 5, color = "black"))
+  ) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = paste0("PC1 (", round(var_explained[3], 1), "%)"),
+    y = paste0("PC3 (", round(var_explained[4], 1), "%)")
+  ) +
+  theme(
+    legend.position = "right",
+    panel.grid.minor = element_blank()
+  )
+
+show(p2)
+
+ggsave("wolf_pca_PC3_PC5.png", plot = p2, width = 8, height = 6, dpi = 300)
+
+# === Plot PCA (PC1 vs PC5) ===
+p2 <- ggplot() +
+  geom_point(
+    data = merged %>% filter(!highlight),
+    aes(x = PC1, y = PC5, color = population),
+    size = 3
+  ) +
+  geom_point(
+    data = merged %>% filter(highlight),
+    aes(x = PC1, y = PC5, fill = sample),
+    shape = 24, color = "black", size = 5, stroke = 1.2
+  ) +
+  scale_color_discrete(name = "Population") +
+  scale_fill_manual(
+    name = "Highlighted samples",
+    values = highlight_colors,
+    labels = highlight_labels,
+    guide = guide_legend(override.aes = list(shape = 24, size = 5, color = "black"))
+  ) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = paste0("PC1 (", round(var_explained[3], 1), "%)"),
+    y = paste0("PC5 (", round(var_explained[4], 1), "%)")
+  ) +
+  theme(
+    legend.position = "right",
+    panel.grid.minor = element_blank()
+  )
+
+show(p2)
+
+ggsave("wolf_pca_PC1_PC5.png", plot = p2, width = 8, height = 6, dpi = 300)
+

@@ -1,0 +1,1774 @@
+new_id	ID1	ID2	species	location	comments	GROUPA	HIGHLEVEL	Use
+97_KB	97	KB	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+98_KTa	98	KTa	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+99_W01	99	W01	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+100_W04	100	W04	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+101_W05	101	W05	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+102_W07	102	W07	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+103_W11	103	W11	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+104_W10	104	W10	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+105_WA	105	WA	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+106_WGJ	106	WGJ	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+107_WKG	107	WKG	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+108_WUN	108	WUN	Wolf	Georgia, Caucasus		WolfGeorgiaHD	WolfCaucasus	YES
+109_8152	109	8152	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+110_8154	110	8154	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+111_8155	111	8155	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+112_8156	112	8156	Dog	Mongolia	free-ranging, sampled as wolf	DogMongoliaHD	DogEast	YES
+113_8159	113	8159	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+114_8160	114	8160	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+115_8161	115	8161	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+116_8162	116	8162	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+117_8163	117	8163	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+118_8164	118	8164	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+119_8166	119	8166	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+120_8167	120	8167	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+121_8168	121	8168	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+122_8169	122	8169	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+123_8170	123	8170	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+124_8172	124	8172	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+125_8174	125	8174	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+126_8175	126	8175	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+127_8176	127	8176	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+128_8177	128	8177	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+129_8178	129	8178	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+130_8181	130	8181	Wolf	Mongolia		WolfMongoliaHD	WolfEast	YES
+131_8271	131	8271	Wolf	Saudi Arabia		WolfSaudiArabiaHD	WolfWest	YES
+132_8274	132	8274	Wolf	Saudi Arabia		WolfSaudiArabiaHD	WolfWest	YES
+133_8284	133	8284	Dog	Saudi Arabia	free-ranging, sampled as wolf	DogSaudiArabiaHD	DogMESA	YES
+134_5282	134	5282	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+135_5283	135	5283	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+136_5285	136	5285	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+137_5286	137	5286	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+138_5289	138	5289	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+139_5324	139	5324	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+140_5325	140	5325	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+141_5326	141	5326	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+142_5328	142	5328	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+143_5329	143	5329	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+144_5330	144	5330	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+145_5331	145	5331	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+146_5332	146	5332	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+147_5333	147	5333	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+148_5334	148	5334	Wolf	Nagorny Karabakh, Caucasus		WolfNagornyKarabakhHD	WolfCaucasus	YES
+149_6874	149	6874	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+150_6875	150	6875	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+151_6876	151	6876	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+152_6878	152	6878	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+153_6881	153	6881	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+154_6882	154	6882	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+155_6884	155	6884	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+156_6885	156	6885	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+157_6889	157	6889	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+158_6892	158	6892	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+159_6893	159	6893	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+160_6895	160	6895	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+161_6896	161	6896	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+162_6897	162	6897	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+163_6910	163	6910	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+164_6926	164	6926	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+165_6927	165	6927	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+166_6928	166	6928	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+167_6932	167	6932	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+168_6933	168	6933	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+169_6935	169	6935	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+170_6937	170	6937	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+171_6940	171	6940	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+172_6941	172	6941	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+173_6944	173	6944	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+174_6945	174	6945	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+175_6951	175	6951	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+176_8893	176	8893	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+177_8894	177	8894	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+178_8896	178	8896	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+179_8906	179	8906	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+180_8907	180	8907	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+181_8909	181	8909	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+182_8910	182	8910	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+183_8912	183	8912	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+184_8913	184	8913	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+185_8914	185	8914	Wolf	Yakutia, Russia		WolfYakutiaHD	WolfSiberia	YES
+186_8937	186	8937	BlackBackedJackal	Namibia		BlackBackedJackalNamibiaHD	BlackBackedJackal	YES
+187_8938	187	8938	BlackBackedJackal	Namibia		BlackBackedJackalNamibiaHD	BlackBackedJackal	YES
+188_8939	188	8939	BlackBackedJackal	Namibia		BlackBackedJackalNamibiaHD	BlackBackedJackal	YES
+189_5734	189	5734	GoldenJackal	Nagorny Karabakh, Caucasus		GoldenJackalNagornyKarabakhHD	GoldenJackal	YES
+190_7184	190	7184	GoldenJackal	Nagorny Karabakh, Caucasus		GoldenJackalNagornyKarabakhHD	GoldenJackal	YES
+191_8341	191	8341	GoldenJackal	Nagorny Karabakh, Caucasus		GoldenJackalNagornyKarabakhHD	GoldenJackal	YES
+192_8957	192	8957	Dog	Yakutia, Russia		F1DogWolfYakutiaHD	DogWolfMix	YES
+3_CO_Alaska	3	CO_Alaska	Coyote	Alaska		CoyoteAlaskaHD	Coyote	YES
+2_CO_Alaska	2	CO_Alaska	Coyote	Alaska		CoyoteAlaskaHD	Coyote	YES
+5_CO_Arizona	5	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+6_CO_Arizona	6	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+7_CO_Arizona	7	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+8_CO_Arizona	8	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+9_CO_Arizona	9	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+10_CO_Arizona	10	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+11_CO_Arizona	11	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+12_CO_Arizona	12	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+13_CO_Arizona	13	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+14_CO_Arizona	14	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+15_CO_Arizona	15	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+16_CO_Arizona	16	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+17_CO_Arizona	17	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+18_CO_Arizona	18	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+19_CO_Arizona	19	CO_Arizona	Coyote	Arizona		CoyoteArizonaHD	Coyote	YES
+CO_CO_Colorado	CO	CO_Colorado	Coyote	Coorado		CoyoteColoradoHD	Coyote	YES
+4_CO_Connecticut	4	CO_Connecticut	Coyote	Connecticut	admixed with wolf	CoyoteConnecticutHD	Coyote	YES
+40_CO_Maine	40	CO_Maine	Coyote	Maine	clusters closer to wolves	CoyoteMaineHD	Coyote	YES
+41_CO_Maine	41	CO_Maine	Coyote	Maine		CoyoteMaineHD	Coyote	YES
+43_CO_Maine	43	CO_Maine	Coyote	Maine		CoyoteMaineHD	Coyote	YES
+42_CO_Maine	42	CO_Maine	Coyote	Maine	clusters with wolves	CoyoteMaineHD	Coyote	YES
+COYOTE_01_Mississippi	COYOTE-01	CO_Mississippi	Coyote	Missisipi		CoyoteMississippiHD	Coyote	YES
+COYOTE_02_Mississippi	COYOTE-02	CO_Mississippi	Coyote	Missisipi		CoyoteMississippiHD	Coyote	YES
+NE_CO_Nebraska	NE	CO_Nebraska	Coyote	Nebraska		CoyoteNebraskaHD	Coyote	YES
+NV_CO_Nevada	NV	CO_Nevada	Coyote	Nevada		CoyoteNevadaHD	Coyote	YES
+WI_1_CO_Wisconsin	WI-1	CO_Wisconsin	Coyote	Wisconsin		CoyoteWisconsinHD	Coyote	YES
+WI_2_CO_Wisconsin	WI-2	CO_Wisconsin	Coyote	Wisconsin		CoyoteWisconsinHD	Coyote	YES
+Coyote_1_Wyoming	Coyote-1	CO_Wyoming	Coyote	Wyoming		CoyoteWyomingHD	Coyote	YES
+Coyote_10_Wyoming	Coyote-10	CO_Wyoming	Coyote	Wyoming		CoyoteWyomingHD	Coyote	YES
+Coyote_15_Wyoming	Coyote-15	CO_Wyoming	Coyote	Wyoming		CoyoteWyomingHD	Coyote	YES
+Coyote_16_Wyoming	Coyote-16	CO_Wyoming	Coyote	Wyoming		CoyoteWyomingHD	Coyote	YES
+Coyote_19_Wyoming	Coyote-19	CO_Wyoming	Coyote	Wyoming		CoyoteWyomingHD	Coyote	YES
+Coyote_3_Wyoming	Coyote-3	CO_Wyoming	Coyote	Wyoming		CoyoteWyomingHD	Coyote	YES
+1_N3669	1-N3669	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+2_P1871	2-P1871	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+3_N3677	3-N3677	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+4_P3664	4-P3664	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+5_P3665	5-P3665	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+6_N3672	6-N3672	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+7_P3659	7-P3659	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+8_P3656	8-P3656	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+9_P3662	9-P3662	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+10_N3313	10-N3313	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+11_N1902	11-N1902	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+12_N1880	12-N1880	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+13_N1894	13-N1894	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+14_P3666	14-P3666	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+15_N3655	15-N3655	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+16_P3673	16-P3673	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+17_N3729	17-N3729	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+18_P3667	18-P3667	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+19_P1874	19-P1874	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+20_P3676	20-P3676	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+21_N3728	21-N3728	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+22_P1875	22-P1875	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+23_P1917	23-P1917	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+24_N3674	24-N3674	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+25_N1885	25-N1885	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+26_P3671	26-P3671	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+27_N3440	27-N3440	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+28_N3661	28-N3661	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+29_N1972	29-N1972	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+30_N1915	30-N1915	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+31_P1891	31-P1891	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+32_P3668	32-P3668	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+33_P1879	33-P1879	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+34_P3663	34-P3663	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+35_N3660	35-N3660	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+36_N1963	36-N1963	DO_MixedBreed	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+Angel_MontanaTexas	DOG-Angel	DO_Montana+Texas	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+1_MontanaTexas	1	DO_Montana+Texas	Dog	USA, mixed-breed		DogMixedUSAHD	DogMix	NO
+ST1584	ST1584	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1691	ST1691	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1707	ST1707	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1732	ST1732	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1737	ST1737	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1746	ST1746	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1752	ST1752	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1755	ST1755	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1795	ST1795	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1798	ST1798	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1814	ST1814	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1817	ST1817	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1823	ST1823	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1868	ST1868	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1876	ST1876	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1878	ST1878	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1880	ST1880	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1909	ST1909	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1917	ST1917	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1918	ST1918	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1923	ST1923	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1945	ST1945	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1958	ST1958	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1962	ST1962	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1964	ST1964	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1966	ST1966	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1978	ST1978	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST1981	ST1981	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2009	ST2009	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2029	ST2029	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2036	ST2036	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2051	ST2051	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2054	ST2054	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2099	ST2099	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2109	ST2109	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2149	ST2149	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2153	ST2153	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2171	ST2171	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2176	ST2176	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2179	ST2179	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2184	ST2184	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2185	ST2185	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2187	ST2187	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2190	ST2190	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2193	ST2193	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2196	ST2196	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2209	ST2209	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2212	ST2212	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2220	ST2220	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2232	ST2232	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2241	ST2241	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2248	ST2248	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+ST2251	ST2251	DO_Poodle	Dog	Poodle		PoodleHD	DogWest	YES
+BC_WOLF_01	BC-WOLF-01	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_02	BC-WOLF-02	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_03	BC-WOLF-03	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_04	BC-WOLF-04	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_05	BC-WOLF-05	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_06	BC-WOLF-06	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_07	BC-WOLF-07	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_08	BC-WOLF-08	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_09	BC-WOLF-09	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_10	BC-WOLF-10	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_11	BC-WOLF-11	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_12	BC-WOLF-12	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_13	BC-WOLF-13	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_14	BC-WOLF-14	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_15	BC-WOLF-15	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_16	BC-WOLF-16	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_17	BC-WOLF-17	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_18	BC-WOLF-18	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_19	BC-WOLF-19	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_20	BC-WOLF-20	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_21	BC-WOLF-21	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_22	BC-WOLF-22	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_23	BC-WOLF-23	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_24	BC-WOLF-24	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_25	BC-WOLF-25	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_26	BC-WOLF-26	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_27	BC-WOLF-27	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_28	BC-WOLF-28	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_29	BC-WOLF-29	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_30	BC-WOLF-30	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+BC_WOLF_31	BC-WOLF-31	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+175_WO_BritishColumbiaCanada	175	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+177_WO_BritishColumbiaCanada	177	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+178_WO_BritishColumbiaCanada	178	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+176_WO_BritishColumbiaCanada	176	WO_BritishColumbiaCanada	Wolf	British Columbia		WolfBritishColumbiaHD	WolfAmerica	YES
+ID_1_WO_Idaho	ID-1	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_10_WO_Idaho	ID-10	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_11_WO_Idaho	ID-11	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_12_WO_Idaho	ID-12	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_13_WO_Idaho	ID-13	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_14_WO_Idaho	ID-14	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_15_WO_Idaho	ID-15	WO_Idaho	Dog	Idaho	dog with wolf admixture	DogIdahoHD	DogWolfMix	NO
+ID_16_WO_Idaho	ID-16	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_17_WO_Idaho	ID-17	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_18_WO_Idaho	ID-18	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_19_WO_Idaho	ID-19	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_2_WO_Idaho	ID-2	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_20_WO_Idaho	ID-20	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_21_WO_Idaho	ID-21	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_22_WO_Idaho	ID-22	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_23_WO_Idaho	ID-23	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_3_WO_Idaho	ID-3	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_4_WO_Idaho	ID-4	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_5_WO_Idaho	ID-5	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_6_WO_Idaho	ID-6	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_7_WO_Idaho	ID-7	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_8_WO_Idaho	ID-8	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+ID_9_WO_Idaho	ID-9	WO_Idaho	Wolf	Idaho		WolfIdahoHD	WolfAmerica	YES
+INTAK_01	INTAK-01	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_02	INTAK-02	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_03	INTAK-03	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_04	INTAK-04	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_05	INTAK-05	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_06	INTAK-06	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_07	INTAK-07	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_08	INTAK-08	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_09	INTAK-09	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_10	INTAK-10	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_11	INTAK-11	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_12	INTAK-12	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_13	INTAK-13	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_14	INTAK-14	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_15	INTAK-15	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_16	INTAK-16	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_17	INTAK-17	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_18	INTAK-18	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_19	INTAK-19	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_20	INTAK-20	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_21	INTAK-21	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_22	INTAK-22	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_23	INTAK-23	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+INTAK_24	INTAK-24	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+186_WO_InteriorAlaska	186	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+206_WO_InteriorAlaska	206	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+207_WO_InteriorAlaska	207	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+208_WO_InteriorAlaska	208	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+209_WO_InteriorAlaska	209	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+212_WO_InteriorAlaska	212	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+213_WO_InteriorAlaska	213	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+214_WO_InteriorAlaska	214	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+217_WO_InteriorAlaska	217	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+218_WO_InteriorAlaska	218	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+219_WO_InteriorAlaska	219	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+221_WO_InteriorAlaska	221	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+222_WO_InteriorAlaska	222	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+223_WO_InteriorAlaska	223	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+224_WO_InteriorAlaska	224	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+225_WO_InteriorAlaska	225	WO_InteriorAlaska	Wolf	Interior Alaska		WolfInteriorAlaskaHD	WolfAmerica	YES
+20_WO_Minnesota	20	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+21_WO_Minnesota	21	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+22_WO_Minnesota	22	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+23_WO_Minnesota	23	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+24_WO_Minnesota	24	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+25_WO_Minnesota	25	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+26_WO_Minnesota	26	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+27_WO_Minnesota	27	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+28_WO_Minnesota	28	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+29_WO_Minnesota	29	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+30_WO_Minnesota	30	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+31_WO_Minnesota	31	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+32_WO_Minnesota	32	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+33_WO_Minnesota	33	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+34_WO_Minnesota	34	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+35_WO_Minnesota	35	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+36_WO_Minnesota	36	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+37_WO_Minnesota	37	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+38_WO_Minnesota	38	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+39_WO_Minnesota	39	WO_Minnesota	Wolf	Minnesota		WolfMinnesotaHD	WolfAmerica	YES
+MT_1_WO_Montana	MT-1	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_10_WO_Montana	MT-10	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_11_WO_Montana	MT-11	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_12_WO_Montana	MT-12	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_13_WO_Montana	MT-13	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_14_WO_Montana	MT-14	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_15_WO_Montana	MT-15	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_17_WO_Montana	MT-17	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_2_WO_Montana	MT-2	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_3_WO_Montana	MT-3	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_4_WO_Montana	MT-4	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_5_WO_Montana	MT-5	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_6_WO_Montana	MT-6	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_7_WO_Montana	MT-7	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_8_WO_Montana	MT-8	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+MT_9_WO_Montana	MT-9	WO_Montana	Wolf	Montana		WolfMontanaHD	WolfAmerica	YES
+NK108296	NK108296	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK108404	NK108404	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK108445	NK108445	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK108446	NK108446	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK108448	NK108448	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK226615	NK226615	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK226616	NK226616	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+NK226618	NK226618	WO_NewMexico	Wolf	New Mexico		WolfNewMexicoHD	WolfAmerica	YES
+SEAK_WOLF_11	SEAK-WOLF-11	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_12	SEAK-WOLF-12	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_13	SEAK-WOLF-13	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_14	SEAK-WOLF-14	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_15	SEAK-WOLF-15	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_16	SEAK-WOLF-16	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_17	SEAK-WOLF-17	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_18	SEAK-WOLF-18	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_19	SEAK-WOLF-19	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_20	SEAK-WOLF-20	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_21	SEAK-WOLF-21	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_22	SEAK-WOLF-22	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+99_WO_SoutheastAK_01A	99	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+100_WO_SoutheastAK_01A	100	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+107_WO_SoutheastAK_01A	107	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+109_WO_SoutheastAK_01A	109	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+110_WO_SoutheastAK_01A	110	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+112_WO_SoutheastAK_01A	112	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+114_WO_SoutheastAK_01A	114	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+119_WO_SoutheastAK_01A	119	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+120_WO_SoutheastAK_01A	120	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+122_WO_SoutheastAK_01A	122	WO_SoutheastAK_01A	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+102_WO_SoutheastAK_01B	102	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+115_WO_SoutheastAK_01B	115	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+117_WO_SoutheastAK_01B	117	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+148_WO_SoutheastAK_01B	148	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+151_WO_SoutheastAK_01B	151	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+152_WO_SoutheastAK_01B	152	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+171_WO_SoutheastAK_01B	171	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+172_WO_SoutheastAK_01B	172	WO_SoutheastAK_01B	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+94_WO_SoutheastAK_01C	94	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+95_WO_SoutheastAK_01C	95	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+97_WO_SoutheastAK_01C	97	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+98_WO_SoutheastAK_01C	98	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+126_WO_SoutheastAK_01C	126	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+129_WO_SoutheastAK_01C	129	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+130_WO_SoutheastAK_01C	130	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+133_WO_SoutheastAK_01C	133	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+134_WO_SoutheastAK_01C	134	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+135_WO_SoutheastAK_01C	135	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+136_WO_SoutheastAK_01C	136	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+139_WO_SoutheastAK_01C	139	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+74_WO_SoutheastAK_01C	74	WO_SoutheastAK_01C	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+131_WO_SoutheastAK_01D	131	WO_SoutheastAK_01D	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+132_WO_SoutheastAK_01D	132	WO_SoutheastAK_01D	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_01	SEAK-WOLF-01	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_05	SEAK-WOLF-05	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_06	SEAK-WOLF-06	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_07	SEAK-WOLF-07	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_02	SEAK-WOLF-02	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_03	SEAK-WOLF-03	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_04	SEAK-WOLF-04	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_08	SEAK-WOLF-08	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_09	SEAK-WOLF-09	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+SEAK_WOLF_10	SEAK-WOLF-10	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+121_WO_SoutheastAK	121	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+45_WO_SoutheastAK	45	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+46_WO_SoutheastAK	46	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+47_WO_SoutheastAK	47	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+48_WO_SoutheastAK	48	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+49_WO_SoutheastAK	49	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+50_WO_SoutheastAK	50	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+51_WO_SoutheastAK	51	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+52_WO_SoutheastAK	52	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+53_WO_SoutheastAK	53	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+54_WO_SoutheastAK	54	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+55_WO_SoutheastAK	55	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+56_WO_SoutheastAK	56	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+57_WO_SoutheastAK	57	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+58_WO_SoutheastAK	58	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+59_WO_SoutheastAK	59	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+60_WO_SoutheastAK	60	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+61_WO_SoutheastAK	61	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+62_WO_SoutheastAK	62	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+63_WO_SoutheastAK	63	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+64_WO_SoutheastAK	64	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+69_WO_SoutheastAK	69	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+70_WO_SoutheastAK	70	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+71_WO_SoutheastAK	71	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+72_WO_SoutheastAK	72	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+73_WO_SoutheastAK	73	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+75_WO_SoutheastAK	75	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+76_WO_SoutheastAK	76	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+78_WO_SoutheastAK	78	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+79_WO_SoutheastAK	79	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+80_WO_SoutheastAK	80	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+81_WO_SoutheastAK	81	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+82_WO_SoutheastAK	82	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+83_WO_SoutheastAK	83	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+84_WO_SoutheastAK	84	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+85_WO_SoutheastAK	85	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+86_WO_SoutheastAK	86	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+87_WO_SoutheastAK	87	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+88_WO_SoutheastAK	88	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+89_WO_SoutheastAK	89	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+90_WO_SoutheastAK	90	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+92_WO_SoutheastAK	92	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+93_WO_SoutheastAK	93	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+154_WO_SoutheastAK	154	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+160_WO_SoutheastAK	160	WO_SoutheastAK	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+65_WO_SoutheastAK_03Z	65	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+101_WO_SoutheastAK_03Z	101	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+105_WO_SoutheastAK_03Z	105	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+106_WO_SoutheastAK_03Z	106	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+111_WO_SoutheastAK_03Z	111	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+118_WO_SoutheastAK_03Z	118	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+123_WO_SoutheastAK_03Z	123	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+128_WO_SoutheastAK_03Z	128	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+137_WO_SoutheastAK_03Z	137	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+138_WO_SoutheastAK_03Z	138	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+140_WO_SoutheastAK_03Z	140	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+141_WO_SoutheastAK_03Z	141	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+142_WO_SoutheastAK_03Z	142	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+143_WO_SoutheastAK_03Z	143	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+144_WO_SoutheastAK_03Z	144	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+145_WO_SoutheastAK_03Z	145	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+146_WO_SoutheastAK_03Z	146	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+147_WO_SoutheastAK_03Z	147	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+149_WO_SoutheastAK_03Z	149	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+150_WO_SoutheastAK_03Z	150	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+153_WO_SoutheastAK_03Z	153	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+155_WO_SoutheastAK_03Z	155	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+156_WO_SoutheastAK_03Z	156	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+157_WO_SoutheastAK_03Z	157	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+158_WO_SoutheastAK_03Z	158	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+159_WO_SoutheastAK_03Z	159	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+161_WO_SoutheastAK_03Z	161	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+162_WO_SoutheastAK_03Z	162	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+163_WO_SoutheastAK_03Z	163	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+164_WO_SoutheastAK_03Z	164	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+165_WO_SoutheastAK_03Z	165	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+166_WO_SoutheastAK_03Z	166	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+167_WO_SoutheastAK_03Z	167	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+168_WO_SoutheastAK_03Z	168	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+169_WO_SoutheastAK_03Z	169	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+170_WO_SoutheastAK_03Z	170	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+173_WO_SoutheastAK_03Z	173	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+174_WO_SoutheastAK_03Z	174	WO_SoutheastAK_03Z	Wolf	Southeast Alaska		WolfSoutheastAlaskaHD	WolfAmerica	YES
+Wolf3_WO_Wyoming	Wolf3(Female)	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf4F_WO_Wyoming	Wolf4(Female)	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf4M_WO_Wyoming	Wolf4(Male)	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf5_WO_Wyoming	Wolf5	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf5F_WO_Wyoming	Wolf5(Female)	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf6_WO_Wyoming	Wolf6	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf6F_WO_Wyoming	Wolf6(Female)	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+Wolf7M_WO_Wyoming	Wolf7(Male)	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_1_WO_Wyoming	WY-1	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_10_WO_Wyoming	WY-10	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_11_WO_Wyoming	WY-11	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_12_WO_Wyoming	WY-12	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_13_WO_Wyoming	WY-13	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_14_WO_Wyoming	WY-14	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_15_WO_Wyoming	WY-15	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_16_WO_Wyoming	WY-16	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_17_WO_Wyoming	WY-17	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_2_WO_Wyoming	WY-2	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_3_WO_Wyoming	WY-3	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_4_WO_Wyoming	WY-4	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_5_WO_Wyoming	WY-5	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_6_WO_Wyoming	WY-6	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_7_WO_Wyoming	WY-7	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_8_WO_Wyoming	WY-8	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+WY_9_WO_Wyoming	WY-9	WO_Wyoming	Wolf	Wyoming		WolfWyomingHD	WolfAmerica	YES
+1_9	1	9	Dog	Bulgaria	free-ranging dog	DogBulgariaHD	DogWest	YES
+2_117	2	117	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+3_186	3	186	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+4_211	4	211	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+5_15	5	15	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+6_125	6	125	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+7_187	7	187	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+8_213	8	213	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+9_47	9	47	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+10_162	10	162	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+11_188	11	188	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+12_214	12	214	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+13_60	13	60	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+14_166	14	166	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+15_191	15	191	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+16_215	16	215	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+17_67	17	67	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+18_170	18	170	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+19_192	19	192	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+20_216	20	216	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+21_78	21	78	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+22_171	22	171	Dog	Bulgaria	free-ranging dog	DogBulgariaHD	DogWest	YES
+23_198	23	198	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+24_217	24	217	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+25_89	25	89	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+26_172	26	172	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+27_200	27	200	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+28_222	28	222	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+29_103	29	103	GoldenJackal	Bulgaria		GoldenJackalBulgariaHD	GoldenJackal	YES
+30_178	30	178	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+31_201	31	201	Dog	Bulgaria	free-ranging dog	DogBulgariaHD	DogWest	YES
+32_224	32	224	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+33_104	33	104	GoldenJackal	Bulgaria		GoldenJackalBulgariaHD	GoldenJackal	YES
+34_180	34	180	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+35_202	35	202	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+36_225	36	225	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+37_106	37	106	GoldenJackal	Bulgaria		GoldenJackalBulgariaHD	GoldenJackal	YES
+38_181	38	181	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+39_204	39	204	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+40_228	40	228	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+41_109	41	109	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+42_182	42	182	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+43_206	43	206	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+44_230	44	230	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+45_114	45	114	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+46_185	46	185	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+47_207	47	207	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+48_233	48	233	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+1_2CH	1	2CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+2_10CH	2	10CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+3_43A	3	43A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+4_25MG	4	25MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+5_12PL	5	12PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+6_10BL	6	10BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+7_3CH	7	3CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+8_22AS	8	22AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+9_44A	9	44A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+10_26MG	10	26MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+11_2BL	11	2BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+12_11BL	12	11BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+13_4CH	13	4CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+14_26AS	14	26AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+15_45A	15	45A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+16_27MG	16	27MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+17_3BL	17	3BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+18_12BL	18	12BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+19_5CH	19	5CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+20_36AS	20	36AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+21_46A	21	46A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+22_28MG	22	28MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+23_4BL	23	4BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+25_6CH	25	6CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+26_37AS	26	37AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+27_47A	27	47A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+28_29MG	28	29MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+29_6BL	29	6BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+30_7180	30	7180	GoldenJackal	Nagorny Karabakh	sampled as wolf	GoldenJackalNagornyKarabakhHD	GoldenJackal	YES
+31_7CH	31	7CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+32_38AS	32	38AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+33_125R	33	125R	Dog	Russia	free-ranging	DogRussiaHD	DogWest	YES
+34_30MG	34	30MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+36_5796	36	5796	Wolf	Nagorny Karabakh		WolfNagornyKarabakhHD	WolfCaucasus	YES
+37_8CH	37	8CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+38_40AS	38	40AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+39_127R	39	127R	Dog	Russia	free-ranging	DogRussiaHD	DogWest	YES
+40_31MG	40	31MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+41_8BL	41	8BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+42_5798	42	5798	Wolf	Nagorny Karabakh		WolfNagornyKarabakhHD	WolfCaucasus	YES
+43_9CH	43	9CH	Dog	China	free-ranging	DogChinaHD	DogEast	YES
+44_41AS	44	41AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+45_128R	45	128R	Dog	Russia	free-ranging	DogRussiaHD	DogWest	YES
+46_11PL	46	11PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+47_9BL	47	9BL	Dog	Bulgaria	free-ranging	DogBulgariaHD	DogWest	YES
+48_5795	48	5795	Wolf	Nagorny Karabakh		WolfNagornyKarabakhHD	WolfCaucasus	YES
+49_1	49	1	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+50_2	50	2	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+51_3	51	3	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+52_4	52	4	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+53_5	53	5	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+54_6	54	6	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+55_7	55	7	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+56_8	56	8	Dog	Iraq	free-ranging	DogIraqHD	DogMESA	YES
+57_89R	57	89R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+58_91R	58	91R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+59_92R	59	92R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+60_93R	60	93R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+61_94R	61	94R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+62_95R	62	95R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+63_96R	63	96R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+64_97R	64	97R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+65_98R	65	98R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+66_99R	66	99R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+67_100R	67	100R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+68_102R	68	102R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+69_104R	69	104R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+70_105R	70	105R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+71_106R	71	106R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+72_107R	72	107R	Dog	Tomsk, Russia	free-ranging	DogTomskRussiaHD	DogCentralAsia	YES
+73_1MG	73	1MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+74_2MG	74	2MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+75_3MG	75	3MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+76_4MG	76	4MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+77_6MG	77	6MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+78_8MG	78	8MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+79_9MG	79	9MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+80_10MG	80	10MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+81_11MG	81	11MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+82_12MG	82	12MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+83_13MG	83	13MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+84_14MG	84	14MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+85_15MG	85	15MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+86_16MG	86	16MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+87_17MG	87	17MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+88_18MG	88	18MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+89_20MG	89	20MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+90_21MG	90	21MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+91_22MG	91	22MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+92_23MG	92	23MG	Dog	Mongolia	free-ranging	DogMongoliaHD	DogEast	YES
+93_2SL	93	2SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+94_3SL	94	3SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+95_4SL	95	4SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+96_5SL	96	5SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+97_8SL	97	8SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+98_11SL	98	11SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+99_6SL	99	6SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+100_7SL	100	7SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+101_9SL	101	9SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+102_10SL	102	10SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+103_12SL	103	12SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+104_13SL	104	13SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+105_14SL	105	14SL	Dog	Slovenia	free-ranging	DogSloveniaHD	DogWest	YES
+106_2AS	106	2AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+107_10AS	107	10AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+108_11AS	108	11AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+109_13AS	109	13AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+110_14AS	110	14AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+111_15AS	111	15AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+112_16AS	112	16AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+113_17AS	113	17AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+114_18AS	114	18AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+115_19AS	115	19AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+116_20AS	116	20AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+117_21AS	117	21AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+118_24AS	118	24AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+119_25AS	119	25AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+120_27AS	120	27AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+121_28AS	121	28AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+122_29AS	122	29AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+123_30AS	123	30AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+124_31AS	124	31AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+125_32AS	125	32AS	Dog	Saudi Arabia	free-ranging	DogSaudiArabiaHD	DogMESA	YES
+126_1PL	126	1PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+127_2PL	127	2PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+128_3PL	128	3PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+129_4PL	129	4PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+130_5PL	130	5PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+131_6PL	131	6PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+132_7PL	132	7PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+133_8PL	133	8PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+134_9PL	134	9PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+135_10PL	135	10PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+136_13PL	136	13PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+137_14PL	137	14PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+138_15PL	138	15PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+139_16PL	139	16PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+140_17PL	140	17PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+141_18PL	141	18PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+142_19PL	142	19PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+143_20PL	143	20PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+144_21PL	144	21PL	Dog	Poland	free-ranging	DogPolandHD	DogWest	YES
+145_1KZ	145	1KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+146_2KZ	146	2KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+147_3KZ	147	3KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+148_4KZ	148	4KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+149_5KZ	149	5KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+150_6KZ	150	6KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+151_7KZ	151	7KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+152_8KZ	152	8KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+153_9KZ	153	9KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+154_10KZ	154	10KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+155_11KZ	155	11KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+156_12KZ	156	12KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+157_1TAJ	157	1TAJ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+158_14KZ	158	14KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+159_15KZ	159	15KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+160_16KZ	160	16KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+161_17KZ	161	17KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+162_18KZ	162	18KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+163_19KZ	163	19KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+164_20KZ	164	20KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+165_13KZ	165	13KZ	Dog	Kazakhstan	free-ranging	DogKazakhstanHD	DogCentralAsia	YES
+166_2TAJ	166	2TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+167_3TAJ	167	3TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+168_4TAJ	168	4TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+169_5TAJ	169	5TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+170_6TAJ	170	6TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+171_7TAJ	171	7TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+172_8TAJ	172	8TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+173_10TAJ	173	10TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+174_1TDZ	174	1TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+175_2TDZ	175	2TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+176_3TDZ	176	3TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+177_4TDZ	177	4TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+178_5TDZ	178	5TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+179_6TDZ	179	6TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+180_7TDZ	180	7TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+181_8TDZ	181	8TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+182_9TDZ	182	9TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+183_10TDZ	183	10TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+184_12TDZ	184	12TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+185_13TDZ	185	13TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+186_14TDZ	186	14TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+187_15TDZ	187	15TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+188_16TDZ	188	16TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+189_17TDZ	189	17TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+190_18TDZ	190	18TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+191_19TDZ	191	19TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+192_20TDZ	192	20TDZ	Dog	Tadjikistan	free-ranging	DogTadjikistanHD	DogCentralAsia	YES
+193_23A	193	23A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+194_24A	194	24A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+195_25A	195	25A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+196_26A	196	26A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+197_27A	197	27A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+198_28A	198	28A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+199_29A	199	29A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+200_30A	200	30A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+201_31A	201	31A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+202_32A	202	32A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+203_33A	203	33A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+204_34A	204	34A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+205_35A	205	35A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+206_36A	206	36A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+207_37A	207	37A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+208_38A	208	38A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+209_39A	209	39A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+210_40A	210	40A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+211_41A	211	41A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+212_42A	212	42A	Dog	Armenia	free-ranging	DogArmeniaHD	DogMESA	YES
+213_11TAJ	213	11TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+214_12TAJ	214	12TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+215_13TAJ	215	13TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+216_14TAJ	216	14TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+217_16TAJ	217	16TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+218_17TAJ	218	17TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+219_18TAJ	219	18TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+220_19TAJ	220	19TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+221_21TAJ	221	21TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+222_22TAJ	222	22TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+223_23TAJ	223	23TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+224_24TAJ	224	24TAJ	Dog	Thailand	free-ranging	DogThailandHD	DogEast	YES
+225_108R	225	108R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+226_109R	226	109R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+227_110R	227	110R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+228_111R	228	111R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+229_112R	229	112R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+230_113R	230	113R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+231_114R	231	114R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+232_116R	232	116R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+233_118R	233	118R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+234_119R	234	119R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+235_120R	235	120R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+236_121R	236	121R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+237_122R	237	122R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+238_123R	238	123R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+239_124R	239	124R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+240_126R	240	126R	Dog	Primorsky Krai, Russia	free-ranging	DogPrimorskyKraiHD	DogEast	YES
+AndeanFox.array	Andean_fox	Andean_fox	AndeanFox	unknown		AndeanFoxHD	AndeanFox	NO
+Taimyr1.array	Taimyr	Taimyr1	Wolf	Russia		Taimyr1HD	Siberia	NO
+Jackal.array	Jackal	Jackal	GoldenJackal	unknown		GoldenJackalHD	GoldenJackal	NO
+LU1	Australian_Shepherd	LU1	Dog	Australian_Shepherd		AustralianShepherdHD	DogWest	YES
+GT13	Belgian_Tervuren	GT13	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT14	Belgian_Tervuren	GT14	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT15	Belgian_Tervuren	GT15	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT16	Belgian_Tervuren	GT16	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT17	Belgian_Tervuren	GT17	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT18	Belgian_Tervuren	GT18	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT22	Belgian_Tervuren	GT22	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT23	Belgian_Tervuren	GT23	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT24	Belgian_Tervuren	GT24	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT25	Belgian_Tervuren	GT25	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT27	Belgian_Tervuren	GT27	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT28	Belgian_Tervuren	GT28	Dog	Belgian_Tervuren		BelgianTervurenHD	DogWest	YES
+GT1	Beagle	GT1	Dog	Beagle		BeagleHD	DogWest	YES
+GT10	Beagle	GT10	Dog	Beagle		BeagleHD	DogWest	YES
+GT11	Beagle	GT11	Dog	Beagle		BeagleHD	DogWest	YES
+GT12	Beagle	GT12	Dog	Beagle		BeagleHD	DogWest	YES
+GT2	Beagle	GT2	Dog	Beagle		BeagleHD	DogWest	YES
+GT5	Beagle	GT5	Dog	Beagle		BeagleHD	DogWest	YES
+GT6	Beagle	GT6	Dog	Beagle		BeagleHD	DogWest	YES
+GT7	Beagle	GT7	Dog	Beagle		BeagleHD	DogWest	YES
+GT8	Beagle	GT8	Dog	Beagle		BeagleHD	DogWest	YES
+GT9	Beagle	GT9	Dog	Beagle		BeagleHD	DogWest	YES
+GT29	Bernese_Mountain_Dog	GT29	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT30	Bernese_Mountain_Dog	GT30	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT31	Bernese_Mountain_Dog	GT31	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT32	Bernese_Mountain_Dog	GT32	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT33	Bernese_Mountain_Dog	GT33	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT34	Bernese_Mountain_Dog	GT34	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT35	Bernese_Mountain_Dog	GT35	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT36	Bernese_Mountain_Dog	GT36	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT37	Bernese_Mountain_Dog	GT37	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT38	Bernese_Mountain_Dog	GT38	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT39	Bernese_Mountain_Dog	GT39	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT40	Bernese_Mountain_Dog	GT40	Dog	Bernese_Mountain_Dog		BerneseMountainDogHD	DogWest	YES
+GT45	Border_Collie	GT45	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT47	Border_Collie	GT47	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT51	Border_Collie	GT51	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT53	Border_Collie	GT53	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT55	Border_Collie	GT55	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT56	Border_Collie	GT56	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT62	Border_Collie	GT62	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT64	Border_Collie	GT64	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT65	Border_Collie	GT65	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT66	Border_Collie	GT66	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT68	Border_Collie	GT68	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT70	Border_Collie	GT70	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT71	Border_Collie	GT71	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT72	Border_Collie	GT72	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT74	Border_Collie	GT74	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+GT75	Border_Collie	GT75	Dog	Border_Collie		BorderCollieHD	DogWest	YES
+LU45	Border_Terrier	LU45	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU48	Border_Terrier	LU48	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU50	Border_Terrier	LU50	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU60	Border_Terrier	LU60	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU62	Border_Terrier	LU62	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU63	Border_Terrier	LU63	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU64	Border_Terrier	LU64	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU65	Border_Terrier	LU65	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU66	Border_Terrier	LU66	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU67	Border_Terrier	LU67	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU68	Border_Terrier	LU68	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU69	Border_Terrier	LU69	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU70	Border_Terrier	LU70	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU71	Border_Terrier	LU71	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU72	Border_Terrier	LU72	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU73	Border_Terrier	LU73	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU74	Border_Terrier	LU74	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU75	Border_Terrier	LU75	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU76	Border_Terrier	LU76	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU77	Border_Terrier	LU77	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU78	Border_Terrier	LU78	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU79	Border_Terrier	LU79	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU80	Border_Terrier	LU80	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU81	Border_Terrier	LU81	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU82	Border_Terrier	LU82	Dog	Border_Terrier		BorderTerrierHD	DogWest	YES
+LU127	Boxer	LU127	Dog	Boxer		BoxerHD	DogWest	YES
+LU128	Boxer	LU128	Dog	Boxer		BoxerHD	DogWest	YES
+LU129	Boxer	LU129	Dog	Boxer		BoxerHD	DogWest	YES
+LU130	Boxer	LU130	Dog	Boxer		BoxerHD	DogWest	YES
+LU131	Boxer	LU131	Dog	Boxer		BoxerHD	DogWest	YES
+LU132	Boxer	LU132	Dog	Boxer		BoxerHD	DogWest	YES
+LU133	Boxer	LU133	Dog	Boxer		BoxerHD	DogWest	YES
+LU134	Boxer	LU134	Dog	Boxer		BoxerHD	DogWest	YES
+GT76	Brittany_Spaniel	GT76	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT77	Brittany_Spaniel	GT77	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT78	Brittany_Spaniel	GT78	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT79	Brittany_Spaniel	GT79	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT80	Brittany_Spaniel	GT80	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT81	Brittany_Spaniel	GT81	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT82	Brittany_Spaniel	GT82	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT83	Brittany_Spaniel	GT83	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT84	Brittany_Spaniel	GT84	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT85	Brittany_Spaniel	GT85	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT86	Brittany_Spaniel	GT86	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+GT87	Brittany_Spaniel	GT87	Dog	Brittany_Spaniel		BrittanySpanielHD	DogWest	YES
+LU135	Chihuahua	LU135	Dog	Chihuahua		ChihuahuaHD	DogWest	YES
+LU136	Chihuahua	LU136	Dog	Chihuahua		ChihuahuaHD	DogWest	YES
+GT88	Cavalier_King_Charles_Spaniel	GT88	Dog	Cavalier_King_Charles_Spaniel		CavalierKingCharlesSpanielHD	DogWest	YES
+GT89	Cavalier_King_Charles_Spaniel	GT89	Dog	Cavalier_King_Charles_Spaniel		CavalierKingCharlesSpanielHD	DogWest	YES
+GT90	Cavalier_King_Charles_Spaniel	GT90	Dog	Cavalier_King_Charles_Spaniel		CavalierKingCharlesSpanielHD	DogWest	YES
+LU137	Cavalier_King_Charles_Spaniel	LU137	Dog	Cavalier_King_Charles_Spaniel		CavalierKingCharlesSpanielHD	DogWest	YES
+LU138	Cavalier_King_Charles_Spaniel	LU138	Dog	Cavalier_King_Charles_Spaniel		CavalierKingCharlesSpanielHD	DogWest	YES
+GT100	Cocker_Spaniel	GT100	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT101	Cocker_Spaniel	GT101	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT102	Cocker_Spaniel	GT102	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT103	Cocker_Spaniel	GT103	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT104	Cocker_Spaniel	GT104	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT91	Cocker_Spaniel	GT91	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT92	Cocker_Spaniel	GT92	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT93	Cocker_Spaniel	GT93	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT94	Cocker_Spaniel	GT94	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT95	Cocker_Spaniel	GT95	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT96	Cocker_Spaniel	GT96	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT97	Cocker_Spaniel	GT97	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT98	Cocker_Spaniel	GT98	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT99	Cocker_Spaniel	GT99	Dog	Cocker_Spaniel		CockerSpanielHD	DogWest	YES
+GT106	Czechoslovakian_Wolf_Dog	GT106	Dog	Czechoslovakian_Wolf_Dog		CzechoslovakianWolfDogHD	DogWolfMix	YES
+GT107	Czechoslovakian_Wolf_Dog	GT107	Dog	Czechoslovakian_Wolf_Dog		CzechoslovakianWolfDogHD	DogWolfMix	YES
+GT108	Czechoslovakian_Wolf_Dog	GT108	Dog	Czechoslovakian_Wolf_Dog		CzechoslovakianWolfDogHD	DogWolfMix	YES
+GT109	Dachshund	GT109	Dog	Dachshund		DachshundHD	DogWest	YES
+GT110	Dachshund	GT110	Dog	Dachshund		DachshundHD	DogWest	YES
+GT111	Dachshund	GT111	Dog	Dachshund		DachshundHD	DogWest	YES
+GT112	Dachshund	GT112	Dog	Dachshund		DachshundHD	DogWest	YES
+GT113	Dachshund	GT113	Dog	Dachshund		DachshundHD	DogWest	YES
+GT114	Dachshund	GT114	Dog	Dachshund		DachshundHD	DogWest	YES
+GT115	Dachshund	GT115	Dog	Dachshund		DachshundHD	DogWest	YES
+GT116	Dachshund	GT116	Dog	Dachshund		DachshundHD	DogWest	YES
+GT117	Dachshund	GT117	Dog	Dachshund		DachshundHD	DogWest	YES
+GT118	Dachshund	GT118	Dog	Dachshund		DachshundHD	DogWest	YES
+GT119	Dachshund	GT119	Dog	Dachshund		DachshundHD	DogWest	YES
+GT120	Dachshund	GT120	Dog	Dachshund		DachshundHD	DogWest	YES
+GT121	Dalmatian	GT121	Dog	Dalmatian		DalmatianHD	DogWest	YES
+GT122	Dalmatian	GT122	Dog	Dalmatian		DalmatianHD	DogWest	YES
+GT123	Dalmatian	GT123	Dog	Dalmatian		DalmatianHD	DogWest	YES
+GT124	Dalmatian	GT124	Dog	Dalmatian		DalmatianHD	DogWest	YES
+GT125	Dalmatian	GT125	Dog	Dalmatian		DalmatianHD	DogWest	YES
+GT126	Dalmatian	GT126	Dog	Dalmatian		DalmatianHD	DogWest	YES
+GT127	Dalmatian	GT127	Dog	Dalmatian		DalmatianHD	DogWest	YES
+LU142	Doberman_Pinscher	LU142	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU143	Doberman_Pinscher	LU143	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU144	Doberman_Pinscher	LU144	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU145	Doberman_Pinscher	LU145	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU146	Doberman_Pinscher	LU146	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU148	Doberman_Pinscher	LU148	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU149	Doberman_Pinscher	LU149	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU150	Doberman_Pinscher	LU150	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU151	Doberman_Pinscher	LU151	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU152	Doberman_Pinscher	LU152	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU153	Doberman_Pinscher	LU153	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU154	Doberman_Pinscher	LU154	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU156	Doberman_Pinscher	LU156	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU157	Doberman_Pinscher	LU157	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU158	Doberman_Pinscher	LU158	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU159	Doberman_Pinscher	LU159	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU160	Doberman_Pinscher	LU160	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU161	Doberman_Pinscher	LU161	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU164	Doberman_Pinscher	LU164	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU166	Doberman_Pinscher	LU166	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU168	Doberman_Pinscher	LU168	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU169	Doberman_Pinscher	LU169	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU170	Doberman_Pinscher	LU170	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU171	Doberman_Pinscher	LU171	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+LU172	Doberman_Pinscher	LU172	Dog	Doberman_Pinscher		DobermanPinscherHD	DogWest	YES
+GT148	English_Bulldog	GT148	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT149	English_Bulldog	GT149	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT150	English_Bulldog	GT150	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT151	English_Bulldog	GT151	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT152	English_Bulldog	GT152	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT153	English_Bulldog	GT153	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT154	English_Bulldog	GT154	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT155	English_Bulldog	GT155	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT156	English_Bulldog	GT156	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT157	English_Bulldog	GT157	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT158	English_Bulldog	GT158	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT159	English_Bulldog	GT159	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT160	English_Bulldog	GT160	Dog	English_Bulldog		EnglishBulldogHD	DogWest	YES
+GT140	English_Bull_Terrier	GT140	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT141	English_Bull_Terrier	GT141	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT142	English_Bull_Terrier	GT142	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT143	English_Bull_Terrier	GT143	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT144	English_Bull_Terrier	GT144	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT145	English_Bull_Terrier	GT145	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT146	English_Bull_Terrier	GT146	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+GT147	English_Bull_Terrier	GT147	Dog	English_Bull_Terrier		EnglishBullTerrierHD	DogWest	YES
+LU437	English_Cocker_Spaniel	LU437	Dog	English_Cocker_Spaniel		EnglishCockerSpanielHD	DogWest	YES
+LU438	English_Cocker_Spaniel	LU438	Dog	English_Cocker_Spaniel		EnglishCockerSpanielHD	DogWest	YES
+GT128	Elkhound	GT128	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT129	Elkhound	GT129	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT130	Elkhound	GT130	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT131	Elkhound	GT131	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT132	Elkhound	GT132	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT133	Elkhound	GT133	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT134	Elkhound	GT134	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT135	Elkhound	GT135	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT136	Elkhound	GT136	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT137	Elkhound	GT137	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT138	Elkhound	GT138	Dog	Elkhound		ElkhoundHD	DogWest	YES
+GT139	Elkhound	GT139	Dog	Elkhound		ElkhoundHD	DogWest	YES
+LU598	English_Springer_Spaniel	LU598	Dog	English_Springer_Spaniel		EnglishSpringerSpanielHD	DogWest	YES
+LU599	English_Springer_Spaniel	LU599	Dog	English_Springer_Spaniel		EnglishSpringerSpanielHD	DogWest	YES
+LU600	English_Springer_Spaniel	LU600	Dog	English_Springer_Spaniel		EnglishSpringerSpanielHD	DogWest	YES
+GT161	English_Setter	GT161	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT162	English_Setter	GT162	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT163	English_Setter	GT163	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT164	English_Setter	GT164	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT165	English_Setter	GT165	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT166	English_Setter	GT166	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT167	English_Setter	GT167	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT168	English_Setter	GT168	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT169	English_Setter	GT169	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT170	English_Setter	GT170	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT171	English_Setter	GT171	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT172	English_Setter	GT172	Dog	English_Setter		EnglishSetterHD	DogWest	YES
+GT173	Eurasian	GT173	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT174	Eurasian	GT174	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT175	Eurasian	GT175	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT176	Eurasian	GT176	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT177	Eurasian	GT177	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT178	Eurasian	GT178	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT179	Eurasian	GT179	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT180	Eurasian	GT180	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT181	Eurasian	GT181	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT182	Eurasian	GT182	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT183	Eurasian	GT183	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT184	Eurasian	GT184	Dog	Eurasier		EurasierHD	DogIntermedWE	YES
+GT198	Flatcoated_Retriever	GT198	Dog	Flatcoated_Retriever		FlatcoatedRetrieverHD	DogWest	YES
+GT199	Flatcoated_Retriever	GT199	Dog	Flatcoated_Retriever		FlatcoatedRetrieverHD	DogWest	YES
+GT185	Finnish_Spitz	GT185	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT186	Finnish_Spitz	GT186	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT187	Finnish_Spitz	GT187	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT188	Finnish_Spitz	GT188	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT189	Finnish_Spitz	GT189	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT190	Finnish_Spitz	GT190	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT191	Finnish_Spitz	GT191	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT192	Finnish_Spitz	GT192	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT193	Finnish_Spitz	GT193	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT194	Finnish_Spitz	GT194	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT195	Finnish_Spitz	GT195	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+GT196	Finnish_Spitz	GT196	Dog	Finnish_Spitz		FinnishSpitzHD	DogWest	YES
+LU604	Gordon_Setter	LU604	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU606	Gordon_Setter	LU606	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU607	Gordon_Setter	LU607	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU610	Gordon_Setter	LU610	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU611	Gordon_Setter	LU611	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU613	Gordon_Setter	LU613	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU615	Gordon_Setter	LU615	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU616	Gordon_Setter	LU616	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU619	Gordon_Setter	LU619	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU625	Gordon_Setter	LU625	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU627	Gordon_Setter	LU627	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU628	Gordon_Setter	LU628	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU629	Gordon_Setter	LU629	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU631	Gordon_Setter	LU631	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU632	Gordon_Setter	LU632	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU633	Gordon_Setter	LU633	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU635	Gordon_Setter	LU635	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU638	Gordon_Setter	LU638	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU639	Gordon_Setter	LU639	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU642	Gordon_Setter	LU642	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU643	Gordon_Setter	LU643	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU644	Gordon_Setter	LU644	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU645	Gordon_Setter	LU645	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU646	Gordon_Setter	LU646	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+LU647	Gordon_Setter	LU647	Dog	Gordon_Setter		GordonSetterHD	DogWest	YES
+GT238	Greyhound	GT238	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT239	Greyhound	GT239	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT240	Greyhound	GT240	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT242	Greyhound	GT242	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT243	Greyhound	GT243	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT244	Greyhound	GT244	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT245	Greyhound	GT245	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT246	Greyhound	GT246	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT247	Greyhound	GT247	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT248	Greyhound	GT248	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT249	Greyhound	GT249	Dog	Greyhound		GreyhoundHD	DogWest	YES
+GT212	Golden_Retriever	GT212	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT213	Golden_Retriever	GT213	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT214	Golden_Retriever	GT214	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT215	Golden_Retriever	GT215	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT216	Golden_Retriever	GT216	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT217	Golden_Retriever	GT217	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT218	Golden_Retriever	GT218	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT219	Golden_Retriever	GT219	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT220	Golden_Retriever	GT220	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT221	Golden_Retriever	GT221	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT222	Golden_Retriever	GT222	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT223	Golden_Retriever	GT223	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT224	Golden_Retriever	GT224	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT225	Golden_Retriever	GT225	Dog	Golden_Retriever		GoldenRetrieverHD	DogWest	YES
+GT200	German_Shepherd	GT200	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT201	German_Shepherd	GT201	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT202	German_Shepherd	GT202	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT203	German_Shepherd	GT203	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT204	German_Shepherd	GT204	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT205	German_Shepherd	GT205	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT206	German_Shepherd	GT206	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT207	German_Shepherd	GT207	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT208	German_Shepherd	GT208	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT209	German_Shepherd	GT209	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT210	German_Shepherd	GT210	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT211	German_Shepherd	GT211	Dog	German_Shepherd		GermanShepherdHD	DogWest	YES
+GT226	Greenland_Sledge_Dog	GT226	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT227	Greenland_Sledge_Dog	GT227	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT228	Greenland_Sledge_Dog	GT228	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT229	Greenland_Sledge_Dog	GT229	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT230	Greenland_Sledge_Dog	GT230	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT231	Greenland_Sledge_Dog	GT231	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT232	Greenland_Sledge_Dog	GT232	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT233	Greenland_Sledge_Dog	GT233	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT234	Greenland_Sledge_Dog	GT234	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT235	Greenland_Sledge_Dog	GT235	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT236	Greenland_Sledge_Dog	GT236	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT237	Greenland_Sledge_Dog	GT237	Dog	Greenland_Sledge_Dog		GreenlandSledgeDogHD	DogWest	YES
+GT403	Siberian_Husky	GT403	Dog	Siberian_Husky		SiberianHuskyHD	DogArctic	YES
+GT405	Siberian_Husky	GT405	Dog	Siberian_Husky		SiberianHuskyHD	DogArctic	YES
+LU1210	Irish_Wolfhound	LU1210	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1211	Irish_Wolfhound	LU1211	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1212	Irish_Wolfhound	LU1212	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1213	Irish_Wolfhound	LU1213	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1214	Irish_Wolfhound	LU1214	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1215	Irish_Wolfhound	LU1215	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1216	Irish_Wolfhound	LU1216	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1217	Irish_Wolfhound	LU1217	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1218	Irish_Wolfhound	LU1218	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1219	Irish_Wolfhound	LU1219	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+LU1220	Irish_Wolfhound	LU1220	Dog	Irish_Wolfhound		IrishWolfhoundHD	DogWest	YES
+GT250	Jack_Russell_Terrier	GT250	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT251	Jack_Russell_Terrier	GT251	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT253	Jack_Russell_Terrier	GT253	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT254	Jack_Russell_Terrier	GT254	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT255	Jack_Russell_Terrier	GT255	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT256	Jack_Russell_Terrier	GT256	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT257	Jack_Russell_Terrier	GT257	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT258	Jack_Russell_Terrier	GT258	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT260	Jack_Russell_Terrier	GT260	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT261	Jack_Russell_Terrier	GT261	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT262	Jack_Russell_Terrier	GT262	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT263	Jack_Russell_Terrier	GT263	Dog	Jack_Russell_Terrier		JackRussellTerrierHD	DogWest	YES
+GT279	Large_Munsterlander	GT279	Dog	Large_Munsterlander		LargeMunsterlanderHD	DogWest	YES
+GT264	Labrador_Retriever	GT264	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT265	Labrador_Retriever	GT265	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT266	Labrador_Retriever	GT266	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT267	Labrador_Retriever	GT267	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT268	Labrador_Retriever	GT268	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT269	Labrador_Retriever	GT269	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT270	Labrador_Retriever	GT270	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT271	Labrador_Retriever	GT271	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT272	Labrador_Retriever	GT272	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT273	Labrador_Retriever	GT273	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT274	Labrador_Retriever	GT274	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT275	Labrador_Retriever	GT275	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT276	Labrador_Retriever	GT276	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT277	Labrador_Retriever	GT277	Dog	Labrador_Retriever		LabradorRetrieverHD	DogWest	YES
+GT280	Mops	GT280	Dog	Mops		MopsHD	DogWest	YES
+GT282	Mops	GT282	Dog	Mops		MopsHD	DogWest	YES
+LU1375	Newfoundland	LU1375	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1378	Newfoundland	LU1378	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1379	Newfoundland	LU1379	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1380	Newfoundland	LU1380	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1381	Newfoundland	LU1381	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1385	Newfoundland	LU1385	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1386	Newfoundland	LU1386	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1387	Newfoundland	LU1387	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1388	Newfoundland	LU1388	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1390	Newfoundland	LU1390	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1392	Newfoundland	LU1392	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1393	Newfoundland	LU1393	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1394	Newfoundland	LU1394	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1395	Newfoundland	LU1395	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1396	Newfoundland	LU1396	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1402	Newfoundland	LU1402	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1403	Newfoundland	LU1403	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1404	Newfoundland	LU1404	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1405	Newfoundland	LU1405	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1406	Newfoundland	LU1406	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1408	Newfoundland	LU1408	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1410	Newfoundland	LU1410	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1412	Newfoundland	LU1412	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1413	Newfoundland	LU1413	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+LU1415	Newfoundland	LU1415	Dog	Newfoundland		NewfoundlandHD	DogWest	YES
+GT286	NSDTR	GT286	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT287	NSDTR	GT287	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT288	NSDTR	GT288	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT289	NSDTR	GT289	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT291	NSDTR	GT291	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT292	NSDTR	GT292	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT293	NSDTR	GT293	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT294	NSDTR	GT294	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT295	NSDTR	GT295	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT296	NSDTR	GT296	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT297	NSDTR	GT297	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT298	NSDTR	GT298	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT299	NSDTR	GT299	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT300	NSDTR	GT300	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT301	NSDTR	GT301	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT302	NSDTR	GT302	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT303	NSDTR	GT303	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT304	NSDTR	GT304	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT305	NSDTR	GT305	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT306	NSDTR	GT306	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT307	NSDTR	GT307	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT308	NSDTR	GT308	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT310	NSDTR	GT310	Dog	Nova Scotia Duck Tolling Retriever		NovaScotiaDuckTollingRetrieverHD	DogWest	YES
+GT328	Pdl	GT328	Dog	Poodle		PoodleHD	DogWest	YES
+GT329	Pdl	GT329	Dog	Poodle		PoodleHD	DogWest	YES
+GT330	Pdl	GT330	Dog	Poodle		PoodleHD	DogWest	YES
+GT331	Pdl	GT331	Dog	Poodle		PoodleHD	DogWest	YES
+GT332	Pdl	GT332	Dog	Poodle		PoodleHD	DogWest	YES
+GT333	Pdl	GT333	Dog	Poodle		PoodleHD	DogWest	YES
+GT334	Pdl	GT334	Dog	Poodle		PoodleHD	DogWest	YES
+GT335	Pdl	GT335	Dog	Poodle		PoodleHD	DogWest	YES
+GT336	Pdl	GT336	Dog	Poodle		PoodleHD	DogWest	YES
+GT337	Pdl	GT337	Dog	Poodle		PoodleHD	DogWest	YES
+GT338	Pdl	GT338	Dog	Poodle		PoodleHD	DogWest	YES
+GT339	Pdl	GT339	Dog	Poodle		PoodleHD	DogWest	YES
+GT340	Pdl	GT340	Dog	Poodle		PoodleHD	DogWest	YES
+GT341	Pdl	GT341	Dog	Poodle		PoodleHD	DogWest	YES
+GT342	Pdl	GT342	Dog	Poodle		PoodleHD	DogWest	YES
+GT343	Pdl	GT343	Dog	Poodle		PoodleHD	DogWest	YES
+GT345	Pdl	GT345	Dog	Poodle		PoodleHD	DogWest	YES
+GT346	Rottweiler	GT346	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT347	Rottweiler	GT347	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT348	Rottweiler	GT348	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT349	Rottweiler	GT349	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT350	Rottweiler	GT350	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT351	Rottweiler	GT351	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT352	Rottweiler	GT352	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT353	Rottweiler	GT353	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT354	Rottweiler	GT354	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT355	Rottweiler	GT355	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT356	Rottweiler	GT356	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT357	Rottweiler	GT357	Dog	Rottweiler		RottweilerHD	DogWest	YES
+GT401	Samoyed	GT401	Dog	Samoyed		SamoyedHD	DogArctic	YES
+GT402	Samoyed	GT402	Dog	Samoyed		SamoyedHD	DogArctic	YES
+LU1453	Sarloos	LU1453	Dog	Sarloos		SarloosHD	DogWolfMix	YES
+LU1454	Sarloos	LU1454	Dog	Sarloos		SarloosHD	DogWolfMix	YES
+LU1455	Schipperke	LU1455	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1457	Schipperke	LU1457	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1458	Schipperke	LU1458	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1461	Schipperke	LU1461	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1464	Schipperke	LU1464	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1466	Schipperke	LU1466	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1468	Schipperke	LU1468	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1469	Schipperke	LU1469	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1471	Schipperke	LU1471	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1473	Schipperke	LU1473	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1477	Schipperke	LU1477	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1479	Schipperke	LU1479	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1480	Schipperke	LU1480	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1481	Schipperke	LU1481	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1482	Schipperke	LU1482	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1489	Schipperke	LU1489	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1490	Schipperke	LU1490	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1491	Schipperke	LU1491	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1492	Schipperke	LU1492	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1496	Schipperke	LU1496	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1497	Schipperke	LU1497	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1498	Schipperke	LU1498	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1499	Schipperke	LU1499	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1500	Schipperke	LU1500	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1501	Schipperke	LU1501	Dog	Schipperke		SchipperkeHD	DogWest	YES
+LU1563	Schnauzer	LU1563	Dog	Schnauzer		SchnauzerHD	DogWest	YES
+LU1564	Schnauzer	LU1564	Dog	Schnauzer		SchnauzerHD	DogWest	YES
+LU1565	Schnauzer	LU1565	Dog	Schnauzer		SchnauzerHD	DogWest	YES
+GT358	Shar_Pei	GT358	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT359	Shar_Pei	GT359	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT361	Shar_Pei	GT361	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT362	Shar_Pei	GT362	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT363	Shar_Pei	GT363	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT364	Shar_Pei	GT364	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT365	Shar_Pei	GT365	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT366	Shar_Pei	GT366	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT367	Shar_Pei	GT367	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT368	Shar_Pei	GT368	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT369	Shar_Pei	GT369	Dog	Shar_Pei		SharPeiHD	DogEast	YES
+GT370	Standard_Poodle	GT370	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT371	Standard_Poodle	GT371	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT372	Standard_Poodle	GT372	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT373	Standard_Poodle	GT373	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT374	Standard_Poodle	GT374	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT375	Standard_Poodle	GT375	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT376	Standard_Poodle	GT376	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT377	Standard_Poodle	GT377	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT378	Standard_Poodle	GT378	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT379	Standard_Poodle	GT379	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT380	Standard_Poodle	GT380	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT381	Standard_Poodle	GT381	Dog	Standard_Poodle		StandardPoodleHD	DogWest	YES
+GT382	Ter	GT382	Dog	Ter		TerHD	DogWest	YES
+GT383	Ter	GT383	Dog	Ter		TerHD	DogWest	YES
+GT384	Ter	GT384	Dog	Ter		TerHD	DogWest	YES
+GT385	Ter	GT385	Dog	Ter		TerHD	DogWest	YES
+GT386	Ter	GT386	Dog	Ter		TerHD	DogWest	YES
+GT387	Ter	GT387	Dog	Ter		TerHD	DogWest	YES
+GT388	Yorkshire_Terrier	GT388	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT389	Yorkshire_Terrier	GT389	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT390	Yorkshire_Terrier	GT390	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT391	Yorkshire_Terrier	GT391	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT392	Yorkshire_Terrier	GT392	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT393	Yorkshire_Terrier	GT393	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT394	Yorkshire_Terrier	GT394	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT395	Yorkshire_Terrier	GT395	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT396	Yorkshire_Terrier	GT396	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT397	Yorkshire_Terrier	GT397	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT398	Yorkshire_Terrier	GT398	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT399	Yorkshire_Terrier	GT399	Dog	Yorkshire_Terrier		YorkshireTerrierHD	DogWest	YES
+GT407	Weimaraner	GT407	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT408	Weimaraner	GT408	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT409	Weimaraner	GT409	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT410	Weimaraner	GT410	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT411	Weimaraner	GT411	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT412	Weimaraner	GT412	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT413	Weimaraner	GT413	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT414	Weimaraner	GT414	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT416	Weimaraner	GT416	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT417	Weimaraner	GT417	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT418	Weimaraner	GT418	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT419	Weimaraner	GT419	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT420	Weimaraner	GT420	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT421	Weimaraner	GT421	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT422	Weimaraner	GT422	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT423	Weimaraner	GT423	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT424	Weimaraner	GT424	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT425	Weimaraner	GT425	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT426	Weimaraner	GT426	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT427	Weimaraner	GT427	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT428	Weimaraner	GT428	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT429	Weimaraner	GT429	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT430	Weimaraner	GT430	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT431	Weimaraner	GT431	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT432	Weimaraner	GT432	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+GT433	Weimaraner	GT433	Dog	Weimaraner		WeimaranerHD	DogWest	YES
+1_1317	1	1317	Dog	border collie		BorderCollieHD	DogWest	YES
+2_234	2	234	Dog	Border collie		BorderCollieHD	DogWest	YES
+3_1264	3	1264	Dog	Cairn		CairnHD	DogWest	YES
+4_1469	4	1469	Dog	Cairn		CairnHD	DogWest	YES
+5_1494	5	1494	Dog	Staffordshire bull terrier		StaffordshireBullTerrierHD	DogWest	YES
+6_568	6	568	Dog	Staffordshire Bull Terrier		StaffordshireBullTerrierHD	DogWest	YES
+7_1315	7	1315	Dog	Labrador Retriever		LabradorRetrieverHD	DogWest	YES
+8_1499	8	1499	Dog	Labrador Retriever		LabradorRetrieverHD	DogWest	YES
+9_1363	9	1363	Dog	Lakeland Terrier		LakelandTerrierHD	DogWest	YES
+10_603	10	603	Dog	lakeland border terrier 		LakelandBorderTerrierHD	DogWest	YES
+11_1367	11	1367	Dog	Border collie		BorderCollieHD	DogWest	YES
+12_712	12	712	Dog	Border collie		BorderCollieHD	DogWest	YES
+13_1455	13	1455	Dog	Hungarian Vizsla		HungarianVizslaHD	DogWest	YES
+14_742	14	742	Dog	Hungarian vizsla		HungarianVizslaHD	DogWest	YES
+15_1357	15	1357	Dog	Shetland Sheepdog		ShetlandSheepdogHD	DogWest	YES
+16_740	16	740	Dog	Shetland Sheepdog		ShetlandSheepdogHD	DogWest	YES
+17_1481	17	1481	Dog	Border collie		BorderCollieHD	DogWest	YES
+18_233	18	233	Dog	border collie		BorderCollieHD	DogWest	YES
+19_1311	19	1311	Dog	Jack Russell x Staffordshire Bull Terrier	cross	JackRussellXStaffordshireBullTerrierHD	DogWest	NO
+20_588	20	588	Dog	jack russell		JackRussellHD	DogWest	YES
+21_1334	21	1334	Dog	Shiba Inu		ShibaInuHD	DogEast	YES
+22_727	22	727	Dog	japanese shiba inu 		ShibaInuHD	DogEast	YES
+23_4274	23	4274	Dog	Rottweiler 		RottweilerHD	DogWest	YES
+24_4535	24	4535	Dog	Rottweiler 		RottweilerHD	DogWest	YES
+25_1326	25	1326	Dog	Parsons terrier		ParsonsTerrierHD	DogWest	YES
+26_711	26	711	Dog	Parson Russell Terrier		ParsonRussellTerrierHD	DogWest	YES
+27_4471	27	4471	Dog	Rough collie		RoughCollieHD	DogWest	YES
+28_4520	28	4520	Dog	Rough collie		RoughCollieHD	DogWest	YES
+29_1295	29	1295	Dog	Alaskan malamute		AlaskanMalamuteHD	DogArctic	YES
+30_1373	30	1373	Dog	Alaskan malamute		AlaskanMalamuteHD	DogArctic	YES
+31_1420	31	1420	Dog	Australian Kelpie		AustralianKelpieHD	DogWest	YES
+32_596	32	596	Dog	australian kelpie		AustralianKelpieHD	DogWest	YES
+33_1281	33	1281	Dog	Rottweiler		RottweilerHD	DogWest	YES
+34_744	34	744	Dog	Rottweiler		RottweilerHD	DogWest	YES
+35_1316	35	1316	Dog	Cocker Spaniel		CockerSpanielHD	DogWest	YES
+36_739	36	739	Dog	Cocker Spaniel		CockerSpanielHD	DogWest	YES
+37_738	37	738	Dog	Rottweiler		RottweilerHD	DogWest	YES
+38_573	38	573	Dog	Rottweiler		RottweilerHD	DogWest	YES
+39_745	39	745	Dog	Golden retriever		GoldenRetrieverHD	DogWest	YES
+40_601	40	601	Dog	Working Golden Retriever		WorkingGoldenRetrieverHD	DogWest	YES
+41_583	41	583	Dog	siberian husky		SiberianHuskyHD	DogArctic	YES
+42_725	42	725	Dog	siberian husky		SiberianHuskyHD	DogArctic	YES
+43_590	43	590	Dog	greyhound		GreyhoundHD	DogWest	YES
+44_1333	44	1333	Dog	greyhoound		GreyhooundHD	DogWest	YES
+45_1310	45	1310	Dog	Dalmatian		DalmatianHD	DogWest	YES
+46_2552	46	2552	Dog	Dalmatian 		DalmatianHD	DogWest	YES
+47_1399	47	1399	Dog	Jack Russell		JackRussellHD	DogWest	YES
+48_3190	48	3190	Dog	jack russell		JackRussellHD	DogWest	YES
+49_1468	49	1468	Dog	Keeshond		KeeshondHD	DogWest	YES
+50_594	50	594	Dog	Keeshond		KeeshondHD	DogWest	YES
+51_570	51	570	Dog	Miniature Labradoodle		MiniatureLabradoodleHD	DogWest	YES
+52_4566	52	4566	Dog	Miniature Labradoodle		MiniatureLabradoodleHD	DogWest	YES
+53_619	53	619	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+54_608	54	608	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+55_1307	55	1307	Dog	Miniture Poodle		MiniturePoodleHD	DogWest	YES
+56_621	56	621	Dog	Toy Poodle		ToyPoodleHD	DogWest	YES
+57_582	57	582	Dog	Labradoodle		LabradoodleHD	DogWest	YES
+58_1344	58	1344	Dog	Labradoodle		LabradoodleHD	DogWest	YES
+59_1347	59	1347	Dog	Collie Kelpie		CollieKelpieHD	DogWest	YES
+60_4552	60	4552	Dog	Collie Cross		CollieCrossHD	DogWest	NO
+61_1323	61	1323	Dog	Jack Russel x Staffordshire bull terrier		JackRusselXStaffordshireBullTerrierHD	DogWest	NO
+62_4551	62	4551	Dog	Staffordshire Bullterrier		StaffordshireBullterrierHD	DogWest	YES
+63_587	63	587	Dog	Greyhound		GreyhoundHD	DogWest	YES
+64_4544	64	4544	Dog	Greyhound		GreyhoundHD	DogWest	YES
+65_589	65	589	Dog	Soft coated Wheaten terrier		SoftCoatedWheatenTerrierHD	DogWest	YES
+66_571	66	571	Dog	Soft Coated Wheaten Terrier		SoftCoatedWheatenTerrierHD	DogWest	YES
+67_597	67	597	Dog	Hungarian vizsla		HungarianVizslaHD	DogWest	YES
+68_604	68	604	Dog	Hungarian Vizsla		HungarianVizslaHD	DogWest	YES
+69_1417	69	1417	Dog	Tibetan Terrier		TibetanTerrierHD	DogEast	YES
+70_1350	70	1350	Dog	Tibetan Terrier		TibetanTerrierHD	DogEast	YES
+71_4275	71	4275	Dog	 Bearded Collie		BeardedCollieHD	DogWest	YES
+72_1486_M	72	1486_M	Dog	Bearded Collie		BeardedCollieHD	DogWest	YES
+73_602	73	602	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+74_2557	74	2557	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+75_4427	75	4427	Dog	Golden Retriever		GoldenRetrieverHD	DogWest	YES
+76_1800	76	1800	Dog	golden retriever		GoldenRetrieverHD	DogWest	YES
+77_710a	77	710a	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+78_1852	78	1852	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+79_1501	79	1501	Dog	Rottweiler		RottweilerHD	DogWest	YES
+80_1486_F	80	1486_F	Dog	Rottweiler		RottweilerHD	DogWest	YES
+81_726	81	726	Dog	German Spitz (Mittel)		GermanSpitzMittelHD	DogWest	YES
+82_1734	82	1734	Dog	Greyhound		GreyhoundHD	DogWest	YES
+83_572	83	572	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+84_1343	84	1343	Dog	Greyhound		GreyhoundHD	DogWest	YES
+85_620	85	620	Dog	border collie		BorderCollieHD	DogWest	YES
+86_585	86	585	Dog	collie -border collie		BorderCollieHD	DogWest	YES
+87_410	87	410	Dog	german spitz mittle		GermanSpitzMittleHD	DogWest	YES
+88_1724	88	1724	Dog	beagle		BeagleHD	DogWest	YES
+89_1314	89	1314	Dog	Malinois		MalinoisHD	DogWest	YES
+90_283	90	283	Dog	Staffordshire Bullterrier		StaffordshireBullterrierHD	DogWest	YES
+91_584	91	584	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+92_1320	92	1320	Dog	Labradoodle		LabradoodleHD	DogWest	YES
+93_3191	93	3191	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+94_586	94	586	Dog	Bearded Collie		BeardedCollieHD	DogWest	YES
+95_1460	95	1460	Dog	springer spaniel		SpringerSpanielHD	DogWest	YES
+96_1331	96	1331	Dog	flat coated retriever		FlatCoatedRetrieverHD	DogWest	YES
+1_4125	1	4125	Dog	Collie		CollieHD	DogWest	YES
+2_749	2	749	Dog	German spitz mittel		GermanSpitzMittelHD	DogWest	YES
+3_55	3	55	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+4_2763	4	2763	Dog	Greyhound		GreyhoundHD	DogWest	YES
+5_2790	5	2790	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+6_1716	6	1716	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+7_4295	7	4295	Dog	Border Collie		BorderCollieHD	DogWest	YES
+8_2643	8	2643	Dog	Border Collie		BorderCollieHD	DogWest	YES
+9_4624	9	4624	Dog	Beagle		BeagleHD	DogWest	YES
+10_581	10	581	Dog	Malinois cross	Malinois crossed with an unknown breed	MalinoisCrossHD	DogWest	NO
+11_4556	11	4556	Dog	Staffordshire Bull Terrier		StaffordshireBullTerrierHD	DogWest	YES
+12_2843	12	2843	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+13_1870	13	1870	Dog	pure-breed		PureBreedHD	DogWest	NO
+14_2774	14	2774	Dog	Belgian Tervuren		BelgianTervurenHD	DogWest	YES
+15_2553	15	2553	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+16_4248	16	4248	Dog	Bearded Collie		BeardedCollieHD	DogWest	YES
+17_4549	17	4549	Dog	English Springer Spaniel 		EnglishSpringerSpanielHD	DogWest	YES
+18_2908	18	2908	Dog	flat coated retriever		FlatCoatedRetrieverHD	DogWest	YES
+19_296	19	296	Dog	Tibetan Terrier		TibetanTerrierHD	DogEast	YES
+20_2726	20	2726	Dog	Tibetan Terrier		TibetanTerrierHD	DogEast	YES
+21_2743	21	2743	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+22_342	22	342	Dog	Siberian husky		SiberianHuskyHD	DogArctic	YES
+23_17	23	17	Dog	Border collie		BorderCollieHD	DogWest	YES
+24_2847	24	2847	Dog	Border collie		BorderCollieHD	DogWest	YES
+25_4416	25	4416	Dog	Border collie		BorderCollieHD	DogWest	YES
+26_2883	26	2883	Dog	Border collie		BorderCollieHD	DogWest	YES
+27_295	27	295	Dog	Rhodesian Ridgeback		RhodesianRidgebackHD	DogWest	YES
+28_4710	28	4710	Dog	Rhodesian Ridgeback		RhodesianRidgebackHD	DogWest	YES
+29_2739	29	2739	Dog	Tibetan Terrier		TibetanTerrierHD	DogEast	YES
+30_2721	30	2721	Dog	Tibetan Terrier		TibetanTerrierHD	DogEast	YES
+31_2761	31	2761	Dog	Saluki x whippet		SalukiXWhippetHD	DogMix	NO
+32_4585	32	4585	Dog	whippet		WhippetHD	DogWest	YES
+33_2585	33	2585	Dog	Labrador		LabradorHD	DogWest	YES
+34_1312	34	1312	Dog	Labrador		LabradorHD	DogWest	YES
+35_2748	35	2748	Dog	Cockerpoo	cocker spaniel x poodle cross	CockerpooHD	DogWest	YES
+36_2863	36	2863	Dog	Cockerpoo	cocker spaniel x poodle cross	CockerpooHD	DogWest	YES
+37_4660	37	4660	Dog	Greyhound		GreyhoundHD	DogWest	YES
+38_2744	38	2744	Dog	Greyhound		GreyhoundHD	DogWest	YES
+39_1294	39	1294	Dog	Hungarian Vizsla		HungarianVizslaHD	DogWest	YES
+40_2882	40	2882	Dog	Hungarian Vizsla		HungarianVizslaHD	DogWest	YES
+41_1752	41	1752	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+42_2742	42	2742	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+43_2657	43	2657	Dog	Border Collie		BorderCollieHD	DogWest	YES
+44_2866	44	2866	Dog	Border collie		BorderCollieHD	DogWest	YES
+45_2859	45	2859	Dog	greyhound		GreyhoundHD	DogWest	YES
+46_2808	46	2808	Dog	greyhound		GreyhoundHD	DogWest	YES
+47_2285	47	2285	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+48_600	48	600	Dog	German Shepherd		GermanShepherdHD	DogWest	YES
+49_3364	49	3364	Dog	mini smooth dachshund		MiniSmoothDachshundHD	DogWest	YES
+50_1683	50	1683	Dog	mini smooth dachshund		MiniSmoothDachshundHD	DogWest	YES
+51_1599	51	1599	Dog	smooth dachshund		SmoothDachshundHD	DogWest	YES
+52_3536	52	3536	Dog	Standard wire haired Dachshund 		StandardWireHairedDachshundHD	DogWest	YES
+53_4151	53	4151	Dog	smooth dachshund		SmoothDachshundHD	DogWest	YES
+54_3206	54	3206	Dog	Mini Long Haired Dachshund 		MiniLongHairedDachshundHD	DogWest	YES
+55_2779	55	2779	Dog	Greyhound		GreyhoundHD	DogWest	YES
+56_4127	56	4127	Dog	Min wire hair dachs		MinWireHairDachsHD	DogWest	YES
+57_1891	57	1891	Dog	Mini Wire haired dachshund		MiniWireHairedDachshundHD	DogWest	YES
+58_2957	58	2957	Dog	Labradoodle		LabradoodleHD	DogWest	YES
+59_2982	59	2982	Dog	Labradoodle		LabradoodleHD	DogWest	YES
+60_4444	60	4444	Dog	Bearded Collie		BeardedCollieHD	DogWest	YES
+61_2287	61	2287	Dog	Bearded Collie		BeardedCollieHD	DogWest	YES
+62_1796	62	1796	Dog	mini longhaired dachshund		MiniLonghairedDachshundHD	DogWest	YES
+63_2795	63	2795	Dog	Miniature Wire Dachshund		MiniatureWireDachshundHD	DogWest	YES
+64_540	64	540	Dog	Greyhound		GreyhoundHD	DogWest	YES
+65_2877	65	2877	Dog	Greyhound		GreyhoundHD	DogWest	YES
+66_2831	66	2831	Dog	miniature daschund		MiniatureDaschundHD	DogWest	YES
+67_2889	67	2889	Dog	Miniature Wire Dachshund		MiniatureWireDachshundHD	DogWest	YES
+68_2697	68	2697	Dog	Greyhound		GreyhoundHD	DogWest	YES
+69_2769	69	2769	Dog	Greyhound		GreyhoundHD	DogWest	YES
+70_569	70	569	Dog	Jack Russell 		JackRussellHD	DogWest	YES
+71_2846	71	2846	Dog	Jack Russell Terrier		JackRussellTerrierHD	DogWest	YES
+72_4255	72	4255	Dog	Golden Retriever		GoldenRetrieverHD	DogWest	YES
+73_2854	73	2854	Dog	Golden Retriever		GoldenRetrieverHD	DogWest	YES
+74_2810	74	2810	Dog	English springer spaniel		EnglishSpringerSpanielHD	DogWest	YES
+75_1876	75	1876	Dog	english springer spaniel		EnglishSpringerSpanielHD	DogWest	YES
+76_2786	76	2786	Dog	English Springer Spaniel		EnglishSpringerSpanielHD	DogWest	YES
+77_2824	77	2824	Dog	English Springer Spaniel		EnglishSpringerSpanielHD	DogWest	YES
+78_2924	78	2924	Dog	english springer spaniel		EnglishSpringerSpanielHD	DogWest	YES
+79_2738	79	2738	Dog	Springer spaniel		SpringerSpanielHD	DogWest	YES
+80_2749	80	2749	Dog	Border Collie		BorderCollieHD	DogWest	YES
+81_2956	81	2956	Dog	Dalmatian		DalmatianHD	DogWest	YES
+82_4294	82	4294	Dog	Dalmation		DalmationHD	DogWest	YES
+83_294	83	294	Dog	Dalmatian 		DalmatianHD	DogWest	YES
+84_4062	84	4062	Dog	Dalmatian		DalmatianHD	DogWest	YES
+85_3235	85	3235	Dog	Labrador Staffordshire Bull Terrier Crossbreed		LabradorXStaffordshireBullTerrierHD	DogWest	NO
+86_4256	86	4256	Dog	Staffordshire Bullterrier		StaffordshireBullterrierHD	DogWest	YES
+87_4288	87	4288	Dog	Labrador		LabradorHD	DogWest	YES
+88_2727	88	2727	Dog	Labrador		LabradorHD	DogWest	YES
+89_731	89	731	Dog	Border Collie		BorderCollieHD	DogWest	YES
+90_2903	90	2903	Dog	Border Collie		BorderCollieHD	DogWest	YES
+91_2630	91	2630	Dog	German Spitz (Klein)		GermanSpitzHD	DogWest	YES
+92_1754	92	1754	Dog	Labrador		LabradorHD	DogWest	YES
+93_2660	93	2660	Dog	German shepherd		GermanShepherdHD	DogWest	YES
+94_2743	94	2743	Dog	Siberian husky		SiberianHuskyHD	DogArctic	YES
+95_1592	95	1592	Dog	Border collie		BorderCollieHD	DogWest	YES
+96_2809	96	2809	Dog	WS		WSDogHD	DogWest	NO
+aIrish	aIrish	aIrish	Dog	ancient, From Fritz et al.		NewgrangeHD	DogAncient	NO
+aIrish_R	aIrish_R	aIrish_R	Dog	ancient, From Fritz et al.		NewgrangeRHD	DogAncient	NO
+FAMBTIM00001	Asian_Breed	FAMBTIM00001	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+KM1	Asian_Breed	KM1	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM3	Asian_Breed	KM3	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM4	Asian_Breed	KM4	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM5	Asian_Breed	KM5	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM6	Asian_Breed	KM6	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM7	Asian_Breed	KM7	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM8	Asian_Breed	KM8	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM9	Asian_Breed	KM9	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+KM10	Asian_Breed	KM10	Dog	Kunming dog	this beed is admixed with German shepherd	KunmingDogHD	DogIntermedWE	NO
+TM1	Asian_Breed	TM1	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM2	Asian_Breed	TM2	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM3	Asian_Breed	TM3	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM4	Asian_Breed	TM4	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM5	Asian_Breed	TM5	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM6	Asian_Breed	TM6	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM7	Asian_Breed	TM7	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM8	Asian_Breed	TM8	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM9	Asian_Breed	TM9	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+TM10	Asian_Breed	TM10	Dog	Tibetan mastiff		TibetanMastiffHD	DogEast	NO
+DQ1	ChineseVDog	DQ1	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ2	ChineseVDog	DQ2	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ3	ChineseVDog	DQ3	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ4	ChineseVDog	DQ4	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ5	ChineseVDog	DQ5	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ6	ChineseVDog	DQ6	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ7	ChineseVDog	DQ7	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ8	ChineseVDog	DQ8	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+DQ9	ChineseVDog	DQ9	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+FAMICHN00001	ChineseVDog	FAMICHN00001	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+FAMICHN00002	ChineseVDog	FAMICHN00002	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ1	ChineseVDog	LJ1	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ2	ChineseVDog	LJ2	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ4	ChineseVDog	LJ4	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ5	ChineseVDog	LJ5	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ6	ChineseVDog	LJ6	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ7	ChineseVDog	LJ7	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ8	ChineseVDog	LJ8	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ9	ChineseVDog	LJ9	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+LJ10	ChineseVDog	LJ10	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+TW04.realigned	ChineseVDog	TW04.realigned	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ1	ChineseVDog	YJ1	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ2	ChineseVDog	YJ2	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ3	ChineseVDog	YJ3	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ4	ChineseVDog	YJ4	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ5	ChineseVDog	YJ5	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ6	ChineseVDog	YJ6	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ7	ChineseVDog	YJ7	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ8	ChineseVDog	YJ8	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ9	ChineseVDog	YJ9	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+YJ10	ChineseVDog	YJ10	Dog	China, village dog		ChinaVillageHD	DogEast	NO
+ID60.realigned	IndiaVDog	ID60.realigned	Dog	India, village dog		IndiaVillageHD	DogMESA	NO
+ID125.realigned	IndiaVDog	ID125.realigned	Dog	India, village dog		IndiaVillageHD	DogMESA	NO
+ID165.realigned	IndiaVDog	ID165.realigned	Dog	India, village dog		IndiaVillageHD	DogMESA	NO
+ID168.realigned	IndiaVDog	ID168.realigned	Dog	India, village dog		IndiaVillageHD	DogMESA	NO
+LB85.realigned	LebanonVDog	LB85.realigned	Dog	Lebanon, village dog		LebanonVillageHD	DogMESA	NO
+PT61.realigned	PortVDog	PT61.realigned	Dog	Portugal, village dog		PortugalVillageHD	DogWest	NO
+PT71.realigned	PortVDog	PT71.realigned	Dog	Portugal, village dog		PortugalVillageHD	DogWest	NO
+QA27.realigned	QatarVDog	QA27.realigned	Dog	Qatar, village dog		QatarVillageHD	DogMESA	NO
+VN4.realigned	VietVDog	VN4.realigned	Dog	Vietnam, village dog		VietnamVillageHD	DogEast	NO
+VN21.realigned	VietVDog	VN21.realigned	Dog	Vietnam, village dog		VietnamVillageHD	DogEast	NO
+VN59.realigned	VietVDog	VN59.realigned	Dog	Vietnam, village dog		VietnamVillageHD	DogEast	NO
+LUPWRUS00001	Wolf	LUPWRUS00001	Wolf	Russia, Altai near Mongolia		WolfAltaiHD	WolfEast	YES
+LUPWRUS00003	Wolf	LUPWRUS00003	Wolf	Bryansk, European Russia		WolfBryanskHD	WolfWest	YES
+Wlf_19785	Wolf	Wlf_19785	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22799	Wolf	Wlf_22799	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22800	Wolf	Wlf_22800	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22802	Wolf	Wlf_22802	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22803	Wolf	Wlf_22803	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22804	Wolf	Wlf_22804	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22809	Wolf	Wlf_22809	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22810	Wolf	Wlf_22810	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_22818	Wolf	Wlf_22818	Wolf	North America		WolfNorthAmericaHD	WolfAmerica	YES
+Wlf_LU1655	Wolf	Wlf_LU1655	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_LU1656	Wolf	Wlf_LU1656	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_LU1657	Wolf	Wlf_LU1657	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_LUb1	Wolf	Wlf_LUb1	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_LUb2	Wolf	Wlf_LUb2	Wolf	Europe		WolfEuropeHD	WolfWest	YES
+Wlf_LUb3	Wolf	Wlf_LUb3	Wolf	North America		WolfNorthAmericaHD	WolfAmerica	YES
+2_5	2	5	Wolf	Poland		WolfPolandHD	WolfWest	YES
+9_27	9	27	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+10_52	10	52	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+12_57	12	57	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+13_62	13	62	Wolf	Latvia		WolfLatviaHD	WolfWest	YES
+18_103	18	103	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+21_112	21	112	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+24_128	24	128	Wolf	Latvia		WolfLatviaHD	WolfWest	YES
+25_132	25	132	Wolf	Latvia		WolfLatviaHD	WolfWest	YES
+26_133	26	133	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+29_163	29	163	Wolf	Russia		WolfRussiaHD	WolfWest	YES
+34_203	34	203	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+35_206	35	206	Wolf	Belarus		WolfBelarusHD	WolfWest	YES
+44_378	44	378	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+50_424	50	424	Wolf	Russia		WolfRussiaHD	WolfWest	YES
+52_444	52	444	Wolf	Russia		WolfRussiaHD	WolfWest	YES
+57_527	57	527	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+66_548	66	548	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+71_555	71	555	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+73_560	73	560	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+74_562	74	562	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+75_563	75	563	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+76_564	76	564	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+82_689	82	689	Wolf	Poland		WolfPolandHD	WolfWest	YES
+84_846	84	846	Wolf	Poland		WolfPolandHD	WolfWest	YES
+86_987	86	987	Wolf	Poland		WolfPolandHD	WolfWest	YES
+87_988	87	988	Wolf	Poland		WolfPolandHD	WolfWest	YES
+91_1003	91	1003	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+99_1135	99	1135	Wolf	Latvia		WolfLatviaHD	WolfWest	YES
+103_1148	103	1148	Wolf	Latvia		WolfLatviaHD	WolfWest	YES
+104_1150	104	1150	Wolf	Latvia		WolfLatviaHD	WolfWest	YES
+109_1174	109	1174	Wolf	Croatia		WolfCroatiaHD	WolfWest	YES
+111_1219	111	1219	Wolf	Croatia		WolfCroatiaHD	WolfWest	YES
+116_1262	116	1262	Wolf	Finland		WolfFinlandHD	WolfWest	YES
+117_1263	117	1263	Wolf	Finland		WolfFinlandHD	WolfWest	YES
+120_1267	120	1267	Wolf	Finland		WolfFinlandHD	WolfWest	YES
+122_1271	122	1271	Wolf	Finland		WolfFinlandHD	WolfWest	YES
+123_1282	123	1282	Wolf	Finland		WolfFinlandHD	WolfWest	YES
+126_1344	126	1344	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+127_1345	127	1345	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+128_1355	128	1355	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+129_1360	129	1360	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+130_1367	130	1367	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+131_1370	131	1370	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+137_1382	137	1382	Wolf	Greece		WolfGreeceHD	WolfWest	YES
+142_1387	142	1387	Wolf	Greece		WolfGreeceHD	WolfWest	YES
+148_895	148	895	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+149_1032	149	1032	Wolf	Bulgaria		WolfBulgariaHD	WolfWest	YES
+150_1173	150	1173	Wolf	Croatia		WolfCroatiaHD	WolfWest	YES
+153_1224	153	1224	Wolf	Croatia		WolfCroatiaHD	WolfWest	YES
+154_833	154	833	Wolf	Poland		WolfPolandHD	WolfWest	YES
+156_897	156	897	Wolf	Poland		WolfPolandHD	WolfWest	YES
+159_1381	159	1381	Wolf	Poland		WolfPolandHD	WolfWest	YES
+160_574	160	574	Wolf	Russia		WolfRussiaHD	WolfWest	YES
+162_584	162	584	Wolf	Russia		WolfRussiaHD	WolfWest	YES
+165_531	165	531	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+168_553	168	553	Wolf	Ukraine		WolfUkraineHD	WolfWest	YES
+171_347	171	347	Wolf	Slovakia		WolfSlovakiaHD	WolfWest	YES
+WILDMB_1177	WILDMB	1177	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1105	WILD	1105	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_1130	X	1130	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1108	WILD	1108	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_1133	X	1133	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_547	MB	547	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_886	X	886	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1055	WILD	1055	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1111	WILD	1111	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1054	WILD	1054	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_919	MB	919	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_858	MB	858	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_861	X	861	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_806	X	806	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_795	MB	795	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_992	WILD	992	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_820	X	820	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1110	WILD	1110	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_732	X	732	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_922	MB	922	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_635	X	635	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1039	WILD	1039	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_1028	X	1028	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILDMB_1118	WILDMB	1118	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_1114	MB	1114	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_624	MB	624	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_569	X	569	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_649	X	649	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1115	WILD	1115	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_903	MB	903	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_562	MB	562	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1161	WILD	1161	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_990	WILD	990	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1008	WILD	1008	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_797	MB	797	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_574	X	574	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1044	WILD	1044	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_904	MB	904	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1106	WILD	1106	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_730	X	730	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_520	X	520	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1042	WILD	1042	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_66	MB	66	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_37	MB	37	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_511	MB	511	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_72	MB	72	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_658	X	658	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+GR_431	GR	431	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_60	MB	60	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_105	MB	105	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_593	X	593	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_194	MB	194	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_84	MB	84	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_29	MB	29	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+GR_412	GR	412	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_30	MB	30	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_47	MB	47	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_76	MB	76	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+GR_426	GR	426	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+AR_284	AR	284	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+GR_411	GR	411	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_9	MB	9	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+GR_420	GR	420	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_667	X	667	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1038_2	WILD	1038_2	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_796	MB	796	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_170	MB	170	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_44	MB	44	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_521	X	521	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_10	MB	10	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_518	X	518	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_171	MB	171	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_536	X	536	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1116	WILD	1116	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_1064	X	1064	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+WILD_1117	WILD	1117	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+DOG_Hershey	DOG	Hershey	Dog	USA, free ranging		DogUSAHD	DogWest	NO
+X_1031	X	1031	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_169	MB	169	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_1032	X	1032	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+AR_258	AR	258	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+GR_432	GR	432	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+X_1034	X	1034	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+MB_484	MB	484	Wolf	Mexican		WolfMexicoHD	WolfAmerica	YES
+4_15523	4	15523	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+7_50501	7	50501	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+26_15522redo	26	15522redo	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+29_50532redo	29	50532redo	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+31_50537redo	31	50537redo	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+34_50545redo	34	50545redo	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+44_15516	44	15516	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+47_15524	47	15524	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+48_15536	48	15536	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES
+49_15509	49	15509	Dog	Alaskan husky	this is not a breed, but a specific mix of breeds	AlaskanHuskyHD	DogArctic	YES

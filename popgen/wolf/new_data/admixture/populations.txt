@@ -1,0 +1,230 @@
+98_KTa	Georgia	Georgia	"Georgia, Caucasus"	
+99_W01	Georgia	Georgia	"Georgia, Caucasus"	
+100_W04	Georgia	Georgia	"Georgia, Caucasus"	
+101_W05	Georgia	Georgia	"Georgia, Caucasus"	
+102_W07	Georgia	Georgia	"Georgia, Caucasus"	
+103_W11	Georgia	Georgia	"Georgia, Caucasus"	
+104_W10	Georgia	Georgia	"Georgia, Caucasus"	
+105_WA	Georgia	Georgia	"Georgia, Caucasus"	
+106_WGJ	Georgia	Georgia	"Georgia, Caucasus"	
+107_WKG	Georgia	Georgia	"Georgia, Caucasus"	
+108_WUN	Georgia	Georgia	"Georgia, Caucasus"	
+109_8152	Mongolia	Mongolia	Mongolia	
+110_8154	Mongolia	Mongolia	Mongolia	
+111_8155	Mongolia	Mongolia	Mongolia	
+113_8159	Mongolia	Mongolia	Mongolia	
+115_8161	Mongolia	Mongolia	Mongolia	
+118_8164	Mongolia	Mongolia	Mongolia	
+119_8166	Mongolia	Mongolia	Mongolia	
+120_8167	Mongolia	Mongolia	Mongolia	
+121_8168	Mongolia	Mongolia	Mongolia	
+123_8170	Mongolia	Mongolia	Mongolia	
+124_8172	Mongolia	Mongolia	Mongolia	
+125_8174	Mongolia	Mongolia	Mongolia	
+127_8176	Mongolia	Mongolia	Mongolia	
+128_8177	Mongolia	Mongolia	Mongolia	
+130_8181	Mongolia	Mongolia	Mongolia	
+134_5282	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+135_5283	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+136_5285	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+137_5286	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+138_5289	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+139_5324	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+140_5325	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+141_5326	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+142_5328	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+143_5329	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+144_5330	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+145_5331	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+146_5332	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+147_5333	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+148_5334	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	
+149_6874	Yakutia	Yakutia	"Yakutia, Russia"	
+150_6875	Yakutia	Yakutia	"Yakutia, Russia"	
+151_6876	Yakutia	Yakutia	"Yakutia, Russia"	
+152_6878	Yakutia	Yakutia	"Yakutia, Russia"	
+153_6881	Yakutia	Yakutia	"Yakutia, Russia"	
+154_6882	Yakutia	Yakutia	"Yakutia, Russia"	
+155_6884	Yakutia	Yakutia	"Yakutia, Russia"	
+156_6885	Yakutia	Yakutia	"Yakutia, Russia"	
+157_6889	Yakutia	Yakutia	"Yakutia, Russia"	
+158_6892	Yakutia	Yakutia	"Yakutia, Russia"	
+159_6893	Yakutia	Yakutia	"Yakutia, Russia"	
+160_6895	Yakutia	Yakutia	"Yakutia, Russia"	
+161_6896	Yakutia	Yakutia	"Yakutia, Russia"	
+162_6897	Yakutia	Yakutia	"Yakutia, Russia"	
+163_6910	Yakutia	Yakutia	"Yakutia, Russia"	
+164_6926	Yakutia	Yakutia	"Yakutia, Russia"	
+165_6927	Yakutia	Yakutia	"Yakutia, Russia"	
+166_6928	Yakutia	Yakutia	"Yakutia, Russia"	
+167_6932	Yakutia	Yakutia	"Yakutia, Russia"	
+168_6933	Yakutia	Yakutia	"Yakutia, Russia"	
+169_6935	Yakutia	Yakutia	"Yakutia, Russia"	
+170_6937	Yakutia	Yakutia	"Yakutia, Russia"	
+171_6940	Yakutia	Yakutia	"Yakutia, Russia"	
+172_6941	Yakutia	Yakutia	"Yakutia, Russia"	
+173_6944	Yakutia	Yakutia	"Yakutia, Russia"	
+174_6945	Yakutia	Yakutia	"Yakutia, Russia"	
+175_6951	Yakutia	Yakutia	"Yakutia, Russia"	
+176_8893	Yakutia	Yakutia	"Yakutia, Russia"	
+177_8894	Yakutia	Yakutia	"Yakutia, Russia"	
+178_8896	Yakutia	Yakutia	"Yakutia, Russia"	
+179_8906	Yakutia	Yakutia	"Yakutia, Russia"	
+180_8907	Yakutia	Yakutia	"Yakutia, Russia"	
+181_8909	Yakutia	Yakutia	"Yakutia, Russia"	
+182_8910	Yakutia	Yakutia	"Yakutia, Russia"	
+183_8912	Yakutia	Yakutia	"Yakutia, Russia"	
+184_8913	Yakutia	Yakutia	"Yakutia, Russia"	
+185_8914	Yakutia	Yakutia	"Yakutia, Russia"	
+2_117	Bulgaria	Bulgaria	Bulgaria	
+3_186	Bulgaria	Bulgaria	Bulgaria	
+4_211	Bulgaria	Bulgaria	Bulgaria	
+7_187	Bulgaria	Bulgaria	Bulgaria	
+8_213	Bulgaria	Bulgaria	Bulgaria	
+9_47	Bulgaria	Bulgaria	Bulgaria	
+10_162	Bulgaria	Bulgaria	Bulgaria	
+11_188	Bulgaria	Bulgaria	Bulgaria	
+12_214	Bulgaria	Bulgaria	Bulgaria	
+13_60	Bulgaria	Bulgaria	Bulgaria	
+14_166	Bulgaria	Bulgaria	Bulgaria	
+15_191	Bulgaria	Bulgaria	Bulgaria	
+16_215	Bulgaria	Bulgaria	Bulgaria	
+18_170	Bulgaria	Bulgaria	Bulgaria	
+19_192	Bulgaria	Bulgaria	Bulgaria	
+20_216	Bulgaria	Bulgaria	Bulgaria	
+21_78	Bulgaria	Bulgaria	Bulgaria	
+23_198	Bulgaria	Bulgaria	Bulgaria	
+24_217	Bulgaria	Bulgaria	Bulgaria	
+25_89	Bulgaria	Bulgaria	Bulgaria	
+26_172	Bulgaria	Bulgaria	Bulgaria	
+27_200	Bulgaria	Bulgaria	Bulgaria	
+28_222	Bulgaria	Bulgaria	Bulgaria	
+30_178	Bulgaria	Bulgaria	Bulgaria	
+32_224	Bulgaria	Bulgaria	Bulgaria	
+36_225	Bulgaria	Bulgaria	Bulgaria	
+38_181	Bulgaria	Bulgaria	Bulgaria	
+39_204	Bulgaria	Bulgaria	Bulgaria	
+40_228	Bulgaria	Bulgaria	Bulgaria	
+42_182	Bulgaria	Bulgaria	Bulgaria	
+43_206	Bulgaria	Bulgaria	Bulgaria	
+44_230	Bulgaria	Bulgaria	Bulgaria	
+45_114	Bulgaria	Bulgaria	Bulgaria	
+46_185	Bulgaria	Bulgaria	Bulgaria	
+47_207	Bulgaria	Bulgaria	Bulgaria	
+36_5796	Azerbaijan	Azerbaijan	Nagorny Karabakh	
+42_5798	Azerbaijan	Azerbaijan	Nagorny Karabakh	
+48_5795	Azerbaijan	Azerbaijan	Nagorny Karabakh	
+LUPWRUS00001	Russia	Altai	"Russia, Altai near Mongolia"	
+LUPWRUS00003	Europe	Bryansk	"Bryansk, European Russia"	
+Wlf_19785	Europe	Europe	Europe	Europe
+Wlf_22799	Europe	Europe	Europe	Europe
+Wlf_22800	Europe	Europe	Europe	Europe
+Wlf_22802	Europe	Europe	Europe	Europe
+Wlf_22803	Europe	Europe	Europe	Europe
+Wlf_22809	Europe	Europe	Europe	Europe
+Wlf_22810	Europe	Europe	Europe	Europe
+Wlf_LU1655	Europe	Europe	Europe	Europe
+Wlf_LU1656	Europe	Europe	Europe	Europe
+Wlf_LU1657	Europe	Europe	Europe	Europe
+Wlf_LUb1	Europe	Europe	Europe	Europe
+Wlf_LUb2	Europe	Europe	Europe	Europe
+2_5	Poland	Poland	Poland	Europe
+9_27	Belarus	Belarus	Belarus	Europe
+10_52	Belarus	Belarus	Belarus	Europe
+12_57	Belarus	Belarus	Belarus	Europe
+13_62	Latvia	Latvia	Latvia	Europe
+18_103	Belarus	Belarus	Belarus	Europe
+21_112	Belarus	Belarus	Belarus	Europe
+25_132	Latvia	Latvia	Latvia	Europe
+26_133	Belarus	Belarus	Belarus	Europe
+29_163	Russia	Russia	Russia	Russia
+34_203	Belarus	Belarus	Belarus	Europe
+35_206	Belarus	Belarus	Belarus	Europe
+50_424	Russia	Russia	Russia	Russia
+52_444	Russia	Russia	Russia	Russia
+57_527	Ukraine	Ukraine	Ukraine	Europe
+66_548	Ukraine	Ukraine	Ukraine	Europe
+75_563	Ukraine	Ukraine	Ukraine	Europe
+82_689	Poland	Poland	Poland	Europe
+86_987	Poland	Poland	Poland	Europe
+87_988	Poland	Poland	Poland	Europe
+99_1135	Latvia	Latvia	Latvia	Europe
+103_1148	Latvia	Latvia	Latvia	Europe
+104_1150	Latvia	Latvia	Latvia	Europe
+109_1174	Croatia	Croatia	Croatia	Europe
+116_1262	Finland	Finland	Finland	Europe
+117_1263	Finland	Finland	Finland	Europe
+120_1267	Finland	Finland	Finland	Europe
+122_1271	Finland	Finland	Finland	Europe
+123_1282	Finland	Finland	Finland	Europe
+127_1345	Ukraine	Ukraine	Ukraine	Europe
+137_1382	Greece	Greece	Greece	Europe
+142_1387	Greece	Greece	Greece	Europe
+148_895	Bulgaria	Bulgaria	Bulgaria	Europe
+149_1032	Bulgaria	Bulgaria	Bulgaria	Europe
+153_1224	Croatia	Croatia	Croatia	Europe
+154_833	Poland	Poland	Poland	Europe
+156_897	Poland	Poland	Poland	Europe
+159_1381	Poland	Poland	Poland	Europe
+160_574	Russia	Russia	Russia	Russia
+162_584	Russia	Russia	Russia	Russia
+165_531	Ukraine	Ukraine	Ukraine	Europe
+171_347	Slovakia	Slovakia	Slovakia	Europe
+21-M-02-15	Scandinavia	Scandinavia	Wolf21-M-02-15Scandinavia	
+32-D-05-18	Scandinavia	Scandinavia	Wolf32-D-05-18Scandinavia	
+33-M-05-01	Scandinavia	Scandinavia	Wolf33-M-05-01Scandinavia	
+42-M-07-02	Scandinavia	Scandinavia	Wolf42-M-07-02Scandinavia	
+63-M-10-10	Scandinavia	Scandinavia	Wolf63-M-10-10Scandinavia	
+71-G82-10	Scandinavia	Scandinavia	Wolf71-G82-10Scandinavia	
+79-M-09-03	Scandinavia	Scandinavia	Wolf79-M-09-03Scandinavia	
+7-D-77-01	Scandinavia	Scandinavia	Wolf7-D-77-01Scandinavia	
+82-G23-13	Scandinavia	Scandinavia	Wolf82-G23-13Scandinavia	
+83-G31-13	Scandinavia	Scandinavia	Wolf83-G31-13Scandinavia	
+8-D-79-01	Scandinavia	Scandinavia	Wolf8-D-79-01Scandinavia	
+Wolf01	Russia	Altai	Wolf01Altai	
+Wolf02	Russia	Chukotka	Wolf02Chukotka	
+Wolf03	Russia	Bryansk	Wolf03Bryansk	
+Wolf04	Mongolia	InnerMongolia	Wolf04InnerMongolia	
+Wolf05	China	China	Wolf05China	
+Wolf06	Croatia	Croatia	Wolf06Croatia	
+Wolf07	Israel	Israel	Wolf07Israel	
+Wolf19	India	India	Wolf19India	
+Wolf20	Iran	Iran	Wolf20Iran	
+Wolf21	Italy	Italy	Wolf21Italy	
+Wolf24	Portugal	Portugal	Wolf24Portugal	
+Wolf27	Spain	Spain	Wolf27Spain	
+Wolf31	China	Liaoning	Wolf31Liaoning	
+Wolf32	China	Xinjiang	Wolf32Xinjiang	
+Wolf33	China	Xinjiang	Wolf33Xinjiang	
+Wolf34	China	Shanxi	Wolf34Shanxi	
+Wolf35	China	Xinjiang	Wolf35Xinjiang	
+Wolf36	China	Xinjiang	Wolf36Xinjiang	
+Wolf37	Mongolia	InnerMongolia	Wolf37InnerMongolia	
+Wolf39	Iberia	Iberia	Wolf39Iberia	
+Wolf41	Mongolia	InnerMongolia	Wolf41InnerMongolia	
+Wolf42	Tibet	Tibet	Wolf42Tibet	
+WolfTibetan01	Mongolia	InnerMongolia	WolfTibetan01InnerMongolia	
+WolfTibetan02	Mongolia	InnerMongolia	WolfTibetan02InnerMongolia	
+WolfTibetan03	China	QinghaiHighland	WolfTibetan03QinghaiHighland	
+WolfTibetan04	China	QinghaiHighland	WolfTibetan04QinghaiHighland	
+WolfTibetan05	Tibet	Tibet	WolfTibetan05Tibet	
+WolfTibetan06	Tibet	Tibet	WolfTibetan06Tibet	
+WolfTibetan07	China	Xinjiang	WolfTibetan07Xinjiang	
+WolfTibetan08	China	Xinjiang	WolfTibetan08Xinjiang	
+WIT1	Italy	Italy	Italy	
+WIT10	Italy	Italy	Italy	
+WIT11	Italy	Italy	Italy	
+WIT12	Italy	Italy	Italy	
+WIT13	Italy	Italy	Italy	
+WIT2	Italy	Italy	Italy	
+WIT3	Italy	Italy	Italy	
+WIT4	Italy	Italy	Italy	
+WIT5	Italy	Italy	Italy	
+WIT6	Italy	Italy	Italy	
+WIT7	Italy	Italy	Italy	
+WIT8	Italy	Italy	Italy	
+WIT9	Italy	Italy	Italy	
+Neige_2_3	France	France	France	
+Neige_3_2	France	France	France	
+Neige_4	France	France	France	
+CX113F	Slovenia	Slovenia	Slovenia	

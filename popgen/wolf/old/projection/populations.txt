@@ -1,0 +1,177 @@
+98_KTa	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+99_W01	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+100_W04	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+101_W05	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+102_W07	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+103_W11	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+104_W10	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+105_WA	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+106_WGJ	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+107_WKG	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+108_WUN	Georgia	Georgia	"Georgia, Caucasus"	WolfGeorgiaHD	WolfCaucasus
+109_8152	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+110_8154	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+111_8155	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+113_8159	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+115_8161	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+118_8164	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+119_8166	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+120_8167	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+121_8168	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+123_8170	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+124_8172	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+125_8174	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+127_8176	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+128_8177	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+130_8181	Mongolia	Mongolia	Mongolia	WolfMongoliaHD	WolfEast
+134_5282	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+135_5283	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+136_5285	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+137_5286	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+138_5289	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+139_5324	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+140_5325	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+141_5326	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+142_5328	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+143_5329	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+144_5330	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+145_5331	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+146_5332	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+147_5333	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+148_5334	Azerbaijan	Azerbaijan	"Nagorny Karabakh, Caucasus"	WolfNagornyKarabakhHD	WolfCaucasus
+149_6874	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+150_6875	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+151_6876	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+152_6878	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+153_6881	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+154_6882	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+155_6884	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+156_6885	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+157_6889	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+158_6892	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+159_6893	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+160_6895	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+161_6896	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+162_6897	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+163_6910	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+164_6926	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+165_6927	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+166_6928	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+167_6932	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+168_6933	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+169_6935	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+170_6937	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+171_6940	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+172_6941	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+173_6944	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+174_6945	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+175_6951	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+176_8893	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+177_8894	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+178_8896	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+179_8906	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+180_8907	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+181_8909	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+182_8910	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+183_8912	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+184_8913	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+185_8914	Yakutia	Yakutia	"Yakutia, Russia"	WolfYakutiaHD	WolfSiberia
+2_117	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+3_186	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+4_211	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+7_187	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+8_213	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+9_47	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+10_162	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+11_188	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+12_214	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+13_60	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+14_166	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+15_191	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+16_215	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+18_170	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+19_192	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+20_216	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+21_78	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+23_198	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+24_217	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+25_89	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+26_172	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+27_200	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+28_222	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+30_178	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+32_224	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+36_225	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+38_181	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+39_204	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+40_228	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+42_182	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+43_206	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+44_230	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+45_114	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+46_185	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+47_207	Bulgaria	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+36_5796	Azerbaijan	Azerbaijan	Nagorny Karabakh	WolfNagornyKarabakhHD	WolfCaucasus
+42_5798	Azerbaijan	Azerbaijan	Nagorny Karabakh	WolfNagornyKarabakhHD	WolfCaucasus
+48_5795	Azerbaijan	Azerbaijan	Nagorny Karabakh	WolfNagornyKarabakhHD	WolfCaucasus
+LUPWRUS00001	Altai	Altai	"Russia, Altai near Mongolia"	WolfAltaiHD	WolfEast
+LUPWRUS00003	Europe	Bryansk	"Bryansk, European Russia"	WolfBryanskHD	WolfWest
+Wlf_19785	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_22799	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_22800	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_22802	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_22803	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_22809	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_22810	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_LU1655	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_LU1656	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_LU1657	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_LUb1	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+Wlf_LUb2	Europe	Europe	Europe	WolfEuropeHD	WolfWest
+2_5	Europe	Poland	Poland	WolfPolandHD	WolfWest
+9_27	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+10_52	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+12_57	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+13_62	Europe	Latvia	Latvia	WolfLatviaHD	WolfWest
+18_103	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+21_112	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+25_132	Europe	Latvia	Latvia	WolfLatviaHD	WolfWest
+26_133	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+29_163	Russia	Russia	Russia	WolfRussiaHD	WolfWest
+34_203	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+35_206	Europe	Belarus	Belarus	WolfBelarusHD	WolfWest
+50_424	Russia	Russia	Russia	WolfRussiaHD	WolfWest
+52_444	Russia	Russia	Russia	WolfRussiaHD	WolfWest
+57_527	Europe	Ukraine	Ukraine	WolfUkraineHD	WolfWest
+66_548	Europe	Ukraine	Ukraine	WolfUkraineHD	WolfWest
+75_563	Europe	Ukraine	Ukraine	WolfUkraineHD	WolfWest
+82_689	Europe	Poland	Poland	WolfPolandHD	WolfWest
+86_987	Europe	Poland	Poland	WolfPolandHD	WolfWest
+87_988	Europe	Poland	Poland	WolfPolandHD	WolfWest
+99_1135	Europe	Latvia	Latvia	WolfLatviaHD	WolfWest
+103_1148	Europe	Latvia	Latvia	WolfLatviaHD	WolfWest
+104_1150	Europe	Latvia	Latvia	WolfLatviaHD	WolfWest
+109_1174	Europe	Croatia	Croatia	WolfCroatiaHD	WolfWest
+116_1262	Europe	Finland	Finland	WolfFinlandHD	WolfWest
+117_1263	Europe	Finland	Finland	WolfFinlandHD	WolfWest
+120_1267	Europe	Finland	Finland	WolfFinlandHD	WolfWest
+122_1271	Europe	Finland	Finland	WolfFinlandHD	WolfWest
+123_1282	Europe	Finland	Finland	WolfFinlandHD	WolfWest
+127_1345	Europe	Ukraine	Ukraine	WolfUkraineHD	WolfWest
+137_1382	Europe	Greece	Greece	WolfGreeceHD	WolfWest
+142_1387	Europe	Greece	Greece	WolfGreeceHD	WolfWest
+148_895	Europe	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+149_1032	Europe	Bulgaria	Bulgaria	WolfBulgariaHD	WolfWest
+153_1224	Europe	Croatia	Croatia	WolfCroatiaHD	WolfWest
+154_833	Europe	Poland	Poland	WolfPolandHD	WolfWest
+156_897	Europe	Poland	Poland	WolfPolandHD	WolfWest
+159_1381	Europe	Poland	Poland	WolfPolandHD	WolfWest
+160_574	Russia	Russia	Russia	WolfRussiaHD	WolfWest
+162_584	Russia	Russia	Russia	WolfRussiaHD	WolfWest
+165_531	Europe	Ukraine	Ukraine	WolfUkraineHD	WolfWest
+171_347	Europe	Slovakia	Slovakia	WolfSlovakiaHD	WolfWest
+Neige_2_3	Neige_2_3	Neige_2_3	Neige_2_3	Neige_2_3	Neige_2_3
+Neige_3_2	Neige_3_2	Neige_3_2	Neige_3_2	Neige_3_2	Neige_3_2
+Neige_4	Neige_4	Neige_4	Neige_4	Neige_4	Neige_4
+CX113H	CX113H	CX113H	CX113H	CX113H	CX113H
+CX113F	CX113F	CX113F	CX113F	CX113F	CX113F
