@@ -4,3 +4,4 @@
 *.bam
 *.bam.gz
 *.DS_Store
+*.rds
