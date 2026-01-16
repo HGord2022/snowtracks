@@ -1,0 +1,146 @@
+sample_accession	sample_name	species	location	location
+SAMEA4762870	191Y	Ursus arctos	Slovenia	"Hrusica, Slovenia "
+SAMEA4762871	Ge	Ursus arctos	Georgia	"Georgia, Great Caucasus "
+SAMEA4762872	Russia	Ursus arctos	Balakhtinsky	"Balakhtinsky District, Russia"
+SAMN07422269	Slovakia1	Ursus arctos	Slovakia	Slovakia
+SAMN07422270	SLK2	Ursus arctos	Slovakia	Slovakia
+SAMN07422271	Spain1	Ursus arctos	Spain	Spain
+SAMN07422272	Slovenia1	Ursus arctos	Slovenia	Slovenia
+SAMN07422264	APN4	Ursus arctos	Italy	Central Italy 
+SAMN07422263	APN3	Ursus arctos	Italy	Central Italy 
+SAMN07422266	APN6	Ursus arctos	Italy	Central Italy 
+SAMN07422265	APN5	Ursus arctos	Italy	Central Italy 
+SAMN07422262	Italy1	Ursus arctos	Italy	Italy
+SAMN07422261	APN1	Ursus arctos	Italy	Central Italy 
+SAMN07422268	Greece1	Ursus arctos	Greece	Greece
+SAMN07422267	GRE2	Ursus arctos	Greece	Greece
+SAMN07422262	APN2	Ursus arctos	Italy	Central Italy 
+SAMN02256315	Finland	Ursus arctos	Finland	Finland
+SAMN02256313	SouthSweden	Ursus arctos	Sweden	Sweden
+SAMN02256319	ABC4	Ursus arctos	Alaska	Alaska
+SAMN02256322	Montana	Ursus arctos	Montana	Montana
+SAMN02256316	ABC1	Ursus arctos	Alaska	Alaska
+SAMN02256317	ABC2	Ursus arctos	Alaska	Alaska
+SAMN02256318	ABC3	Ursus arctos	Alaska	Alaska
+SAMN02256320	ABC5	Ursus arctos	Alaska	Alaska
+SAMN02261865	KB02	Ursus maritimus	Polar_Bear	Western Greenland
+SRS16196576	Alaska12	Ursus arctos	Alaska	Alaska
+SRS16196575	Russia_Kola1	Ursus arctos	Russia	Russia
+SRS16196574	Rumania5	Ursus arctos	Romania	Romania
+SRS16196573	Rumania4	Ursus arctos	Romania	Romania
+SRS16196572	Rumania3	Ursus arctos	Romania	Romania
+SRS16196571	Rumania2	Ursus arctos	Romania	Romania
+SRS16196570	Rumania1	Ursus arctos	Romania	Romania
+SRS16196568	Norway8	Ursus arctos	Norway	Norway
+SRS16196569	Norway7	Ursus arctos	Norway	Norway
+SRS16196567	Norway6	Ursus arctos	Norway	Norway
+SRS16196565	Alaska11	Ursus arctos	Alaska	Alaska
+SRS16196564	Norway4	Ursus arctos	Norway	Norway
+SRS16196563	Norway3	Ursus arctos	Norway	Norway
+SRS16196562	Norway2	Ursus arctos	Norway	Norway
+SRS16196561	Norway1	Ursus arctos	Norway	Norway
+SRS16196560	Kodiak5	Ursus arctos	Alaska	Alaska
+SRS16196559	Kodiak4	Ursus arctos	Alaska	Alaska
+SRS16196558	Kodiak3	Ursus arctos	Alaska	Alaska
+SRS16196557	Kodiak2	Ursus arctos	Alaska	Alaska
+SRS16196556	Kodiak1	Ursus arctos	Alaska	Alaska
+SRS16196555	Kamtschatka4	Ursus arctos	Kamtschatka	"Kamtschatka, Russia"
+SRS16196554	Alaska1	Ursus arctos	Alaska	Alaska
+SRS16196553	Kamtschatka3	Ursus arctos	Kamtschatka	"Kamtschatka, Russia"
+SRS16196552	IranGudrun	Ursus arctos	Iran	Iran
+SRS16196551	Hokkaido1	Ursus arctos	Japan	Japan
+SRS16196550	Himalaya1	Ursus arctos	Himalaya	Himalaya
+SRS16196549	Finland3	Ursus arctos	Finland	Finland
+SRS16196548	Finland2	Ursus arctos	Finland	Finland
+SRS16196547	FarEast11	Ursus arctos	Far_East	Far East
+SRS16196546	FarEast10	Ursus arctos	Far_East	Far East
+SRS16196545	FarEast9	Ursus arctos	Far_East	Far East
+SRS16196544	AlaskaN1	Ursus arctos	Alaska	Alaska
+SRS16196543	AlaskaW1	Ursus arctos	Alaska	Alaska
+SRS16196542	AlaskaSW3	Ursus arctos	Aleutian	Aleutian
+SRS16196541	AlaskaSW2	Ursus arctos	Aleutian	Aleutian
+SRS16196540	AlaskaSW1	Ursus arctos	Aleutian	Aleutian
+SRS16196539	Kodiak6	Ursus arctos	Alaska	Alaska
+SRS16196538	Alaska9	Ursus arctos	Alaska	Alaska
+SRS16196537	US8	Ursus arctos	USA	USA
+SRS16196536	US6	Ursus arctos	USA	USA
+SRS16196535	US3	Ursus arctos	USA	USA
+SRS16196534	US2	Ursus arctos	USA	USA
+SRS16196533	US1	Ursus arctos	USA	USA
+SRS16196532	Ural6	Ursus arctos	Urals	"Urals, Russia"
+SRS16196531	Ural5	Ursus arctos	Urals	"Urals, Russia"
+SRS16196530	Ural4	Ursus arctos	Urals	"Urals, Russia"
+SRS16196529	Ural3	Ursus arctos	Urals	"Urals, Russia"
+SRS16196528	Ural2	Ursus arctos	Urals	"Urals, Russia"
+SRS16196527	Alaska7	Ursus arctos	Alaska	Alaska
+SRS16196526	Ural1	Ursus arctos	Urals	"Urals, Russia"
+SRS16196524	TurkeyMartin	Ursus arctos	Turkey	Turkey
+SRS16196525	SouthNorway7	Ursus arctos	Norway	Norway
+SRS16196523	SouthNorway6	Ursus arctos	Norway	Norway
+SRS16196522	SouthNorway5	Ursus arctos	Norway	Norway
+SRS16196521	SouthNorway4	Ursus arctos	Norway	Norway
+SRS16196520	SouthNorway3	Ursus arctos	Norway	Norway
+SRS16196519	SouthNorway2	Ursus arctos	Norway	Norway
+SRS16196518	SouthNorway1	Ursus arctos	Norway	Norway
+SRS16196517	Russia_Kola3	Ursus arctos	Kola	"Kola peninsula, Russia"
+SRS16196516	FarEast8	Ursus arctos	Far_East	Far East
+SRS16196515	ABC9	Ursus arctos	Alaska	Alaska
+SRS16196514	FarEast7	Ursus arctos	Far_East	Far East
+SRS16196513	FarEast6	Ursus arctos	Far_East	Far East
+SRS16196512	FarEast4	Ursus arctos	Far_East	Far East
+SRS16196511	FarEast3	Ursus arctos	Far_East	Far East
+SRS16196510	FarEast2	Ursus arctos	Far_East	Far East
+SRS16196509	FarEast1	Ursus arctos	Far_East	Far East
+SRS16196508	Estonia2	Ursus arctos	Estonia	Estonia
+SRS16196507	Estonia1	Ursus arctos	Estonia	Estonia
+SRS16196505	CentralRussia5	Ursus arctos	Central_Russia	Central Russia
+SRS16196506	CentralRussia4	Ursus arctos	Central_Russia	Central Russia
+SRS16196504	ABC8	Ursus arctos	Alaska	Alaska
+SRS16196503	CentralRussia3	Ursus arctos	Central_Russia	Central Russia
+SRS16196502	CentralRussia2	Ursus arctos	Central_Russia	Central Russia
+SRS16196501	CentralRussia1	Ursus arctos	Central_Russia	Central Russia
+SRS16196500	Canada9	Ursus arctos	Canada	Canada
+SRS16196499	Canada8	Ursus arctos	Canada	Canada
+SRS16196498	Canada7	Ursus arctos	Canada	Canada
+SRS16196497	Canada6	Ursus arctos	Canada	Canada
+SRS16196496	Canada5	Ursus arctos	Canada	Canada
+SRS16196495	Canada4	Ursus arctos	Canada	Canada
+SRS16196494	Canada3	Ursus arctos	Canada	Canada
+SRS16196493	ABC7	Ursus arctos	Alaska	Alaska
+SRS16196492	Canada2	Ursus arctos	Canada	Canada
+SRS16196491	Canada12	Ursus arctos	Canada	Canada
+SRS16196490	Canada11	Ursus arctos	Canada	Canada
+SRS16196489	Canada10	Ursus arctos	Canada	Canada
+SRS16196488	Canada1	Ursus arctos	Canada	Canada
+SRS16196487	Amur5	Ursus arctos	Yakutia	Yakutia
+SRS16196486	Amur4	Ursus arctos	Sakhalin	Sakhalin
+SRS16196485	Amur3	Ursus arctos	Amur	"Amur, Russia"
+SRS16196484	Amur2	Ursus arctos	Amur	"Amur, Russia"
+SRS16196483	Amur1	Ursus arctos	Amur	"Amur, Russia"
+SRS16196482	ABC16	Ursus arctos	Alaska	Alaska
+SRS16196481	ABC15	Ursus arctos	Alaska	Alaska
+SAMN32301362	Kirkenes	Ursus arctos	Norway	Norway
+SAMN03247209	ABC11	Ursus arctos	Alaska	Alaska
+SAMN03252406	ABC12 	Ursus arctos	Alaska	Alaska
+SAMN03252407	Sweden3 	Ursus arctos	Sweden	Sweden
+SAMD00282813	HokkaidoCentral1	Ursus arctos	Japan	Japan
+SAMD00282812	HokkaidoSouth2	Ursus arctos	Japan	Japan
+SAMD00282814	HokkaidoCentral2 	Ursus arctos	Japan	Japan
+SAMD00282816	HokkaidoEast2 	Ursus arctos	Japan	Japan
+SAMD00282811	HokkaidoSouth1 	Ursus arctos	Japan	Japan
+SAMD00282815	HokkaidoEast1	Ursus arctos	Japan	Japan
+SAMN02045560	ABC10 	Ursus arctos	Alaska	Alaska
+SAMN02045559	Alaska3	Ursus arctos	Alaska	Alaska
+SAMD00759918	Amur6	Ursus arctos	Sakhalin	Sakhalin
+SAMD00759919	Etorofu	Ursus arctos	Etorofu	Etorofu
+SAMD00759920	China1	Ursus arctos	Tibet	Tibet
+SAMD00759921	IranOshnoviyeh	Ursus arctos	Oshnoviyeh	Oshnoviyeh
+SAMD00759922	Kazakhstan	Ursus arctos	Kazakhstan	Kazakhstan
+SAMD00759923	FarEast12	Ursus arctos	Kolymskyi	"Siberia, Kolymskyi mts"
+SAMD00759924	China2	Ursus arctos	Tibet	Tibet
+SAMD00759925	Sochi	Ursus arctos	Sochi	Sochi
+SAMD00759926	CentralRussia6	Ursus arctos	Krasnojarsk	Krasnojarsk
+CX1138	CX1138	CX1138	CX1138	CX1138
+CX115H	CX115H	CX115H	CX115H	CX115H
+CX113C	CX113C	CX113C	CX113C	CX113C
+CX113E	CX113E	CX113E	CX113E	CX113E
