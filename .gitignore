@@ -3,5 +3,6 @@
 *.fa.gz
 *.bam
 *.bam.gz
-*.DS_Store
+*DS_Store
 *.rds
+*.geno
