@@ -37,7 +37,7 @@ SAMN04978241	Angus	Bos taurus
 SAMEA4560535	Angus	Bos taurus
 SAMEA4560531	Angus	Bos taurus
 SAMN04545540	Ankole	Bos taurus
-SAMN045455Scottish Highland41	Ankole	Bos taurus
+SAMN04545541	Ankole	Bos taurus
 SAMN04545542	Ankole	Bos taurus
 SAMN04545543	Ankole	Bos taurus
 SAMN04545544	Ankole	Bos taurus
@@ -899,3 +899,5 @@ SAMN08242231	Zebu	Bos indicus
 SAMN08242232	Zebu	Bos indicus
 SAMN08242229	Zebu	Bos indicus
 CX1138	CX1138	CX1138
+CX113E	CX113E	CX113E
+CX113F	CX113F	CX113F

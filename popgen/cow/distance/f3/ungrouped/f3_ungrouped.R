@@ -1,89 +1,48 @@
+#!/usr/bin/env Rscript
 setwd("~/github_repos/snowtracks/popgen/cow/distance/f3/ungrouped")
+args <- commandArgs(trailingOnly = TRUE)
+library(ggplot2)
 
-library(admixtools)
-library(tidyverse)
-library(dplyr)
+# parse args
+file_path <- "out_f3.txt"
+outdir <- "plots"
 
-prefix = 'data/cows'
+if(!dir.exists(outdir)) dir.create(outdir, recursive = TRUE)
 
-inds <- read.table(paste0(prefix, ".ind"), stringsAsFactors = FALSE, header = FALSE)
-colnames(inds) <- c("ind", "sex", "pop")
-# Strip whitespace first
-inds$ind <- trimws(inds$ind)
-# Now remove leading 0:
-inds$ind <- sub("^0:", "", inds$ind)
-# Optional: make pop match ind
-inds$pop <- inds$ind
-all_samples <- inds$ind
+# read data
+f3_data <- read.table(file_path, header = TRUE, sep = "\t", stringsAsFactors = FALSE)
 
-# Read populations file
-pop_df <- read.delim("ena_metadata.txt", header = FALSE, stringsAsFactors = FALSE)
-# Check the structure
-head(pop_df)
-# Example columns: V1 = sample, V2 = population
-# Match samples in inds with populations and replace pop column
-inds$pop <- pop_df$V2[match(inds$ind, pop_df$V1)]
+samples <- unique(f3_data$pop2)
 
-
-
-# extract f2 blocks
-f2_dir = 'f2data/'
-pops <- inds$ind
-
-
-extract_f2(prefix, f2_dir, 
-           auto_only = FALSE,
-           maxmiss = 1,
-           pops=pops,
-           maxmem = 20000,
-           n_cores = 4,
-           adjust_pseudohaploid = FALSE)
-
-f2_blocks = f2_from_precomp(f2_dir, remove_na = FALSE)
-
-
-# f3 stats
-
-samples <- c("CX1138.fixed.fa.gz")
-
-for (focal in samples) {
+for(focal in samples) {
   
-  outgroup <- "SAMN08242229"
-  pop1 <- c(focal)
-  pop2 <- inds$ind[!inds$ind %in% focal]
+  # subset for this focal
+  f3_values <- f3_data[f3_data$pop2 == focal & !is.na(f3_data$est), ]
   
-  f3_values <- f3(f2_blocks, outgroup, pop1, pop2) %>%
-    left_join(
-      inds %>% select(ind, pop),
-      by = c("pop3" = "ind")
-    ) %>%
-    mutate(pop3_label = paste0(pop3, " (", pop, ")"))
+  # order pop3 by decreasing est
+  f3_values$pop3_label <- paste0(f3_values$pop3, " (", f3_values$pop3, ")")
+  f3_values <- f3_values[order(f3_values$est, decreasing = TRUE), ]
   
+  # take top 50
+  top50 <- head(f3_values, 50)
   
-  # Take top 50 by est
-  top50 <- f3_values %>% 
-    filter(!is.na(est)) %>% 
-    arrange(desc(est)) %>% 
-    slice(1:50)
+  # make pop3 a factor with levels in order for plotting
+  top50$pop3_label <- factor(top50$pop3_label, levels = rev(top50$pop3_label))
   
-  # Horizontal point plot with error bars
-  p <- ggplot(top50, aes(x = est, y = fct_reorder(pop3_label, est))) +
-    geom_errorbarh(
-      aes(xmin = est - se, xmax = est + se),
-      height = 0.2,
-      color = "darkgray"
-    ) +
+  # plot
+  p <- ggplot(top50, aes(x = est, y = pop3_label)) +
+    geom_errorbarh(aes(xmin = est - se, xmax = est + se), height = 0.2, color = "darkgray") +
     geom_point(size = 3, color = "steelblue") +
     labs(
-      x = paste0("f3 (Zebu, CX1138; population)"),
+      x = paste0("f3 (", focal, "; population)"),
       y = "Population"
     ) +
     theme_minimal() +
     theme(axis.text = element_text(size = 12))
-  show(p)
+  
   # save
   ggsave(
-    filename = paste0("f3_", focal, "_ind.png"),
+    filename = file.path(outdir, paste0("f3_", focal, ".png")),
     plot = p,
     width = 6,
     height = 9,

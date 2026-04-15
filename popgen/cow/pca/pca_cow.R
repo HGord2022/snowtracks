@@ -15,11 +15,12 @@ label_text_size <- 4
 # === Read eigenvectors (.evec) ===
 evec <- read_table2(evec_file, comment = "#", col_names = FALSE)
 evec <- evec[-1,]
+evec <- evec %>% mutate(sample = sub("^0:", "", sample))
 
 num_pcs <- ncol(evec) - 2
 pc_names <- paste0("PC", 1:num_pcs)
 colnames(evec) <- c("sample", pc_names, "sample_dup")
-evec <- evec %>% select(-sample_dup)
+evec$sample <- sub("^0:", "", evec$sample)
 
 # === Read eigenvalues ===
 eigvals <- read_table2(eigval_file, col_names = FALSE) %>% pull(X1)
@@ -33,8 +34,10 @@ colnames(pop)[1:2] <- c("sample", "population")
 merged <- left_join(evec, pop, by = "sample")
 
 # === Highlighted samples ===
-highlight_colors <- c(CX1138 = "#E41A1C")
-highlight_labels <- c(CX1138 = "CX1138 - Slovenia, 0.45x")
+highlight_colors <- c(CX1138 = "#E41A1C", CX113E = "#377EB8", CX113F = "#4DAF4A")
+highlight_labels <- c(CX1138 = "CX1138 - Slovenia, 0.45x",
+                      CX113E = "CX113E - Slovenia, 0.02x",
+                      CX113F = "CX113F - Slovenia, 0.002x")
 
 merged <- merged %>%
   mutate(highlight = sample %in% names(highlight_colors))
@@ -52,7 +55,7 @@ pop_palette["Holstein x Freisian"] <- "#F2A900"  # yellow–orange
 # === Populations to label ===
 pop_to_label <- c(
   "Simmental", "Brown Swiss", "Holstein", "Zebu",
-  "Tuxer", "Tyrolean Grey", "Scottish Highland",
+  "Holstein x Freisian", "Tyrolean Grey", "Scottish Highland",
   "Hereford", "Gelbvieh"
 )
 
