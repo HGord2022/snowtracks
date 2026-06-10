@@ -1,0 +1,10 @@
+﻿sample,lat,lon,locality,species
+CX1138,45.55610399,14.43335748,"Snežnik, Slovenia",bear
+CX113E,45.68402522,14.47096181,"LPN Jelen, Slovenia",bear
+CX113C,45.62557847,14.46120006,"Leskova Dolina, Slovenia",bear
+CX115H,45.55610399,14.43335748,"Snežnik, Slovenia",bear
+CX113H,45.62557847,14.46120006,Slovenia,wolf
+CX113F,45.62557847,14.46120006,Slovenia,wolf
+Neige_2_3,45.31911988,6.088686762,"Ferrière - Forêt Tigneux, France",wolf
+Neige_3_2,45.31911988,6.088686762,"Ferrière - Forêt Tigneux, France",wolf
+Neige_4,45.31911988,6.088686762,"Ferrière - Forêt Tigneux, France",wolf
