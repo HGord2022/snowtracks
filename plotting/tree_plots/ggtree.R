@@ -2,15 +2,11 @@ library(ape)
 library(ggtree)
 setwd("~/github_repos/snowtracks/plotting/tree_plots")
 
+
 tree <- read.tree("core_tree.treefile")
 
-ggtree(tree) +
-  geom_tiplab(size = 3)
-
-library(ape)
-library(ggtree)
-
-tree <- read.tree("mytree.treefile")
+# Root the tree on HPA21
+tree <- root(tree, outgroup = "HPA21_ref", resolve.root = TRUE)
 
 p <- ggtree(tree) +
   geom_tiplab(size = 2)
