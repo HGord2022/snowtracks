@@ -43,12 +43,15 @@ final_plot <- ggplot(df_long, aes(x = Name, y = Percent, fill = Category)) +
   scale_fill_manual(values = cols) +
   scale_y_continuous(expand = c(0, 0)) +
   labs(y = "Percent of reads", x = NULL) +
-  theme_minimal(base_size = 12) +
+  theme_minimal(base_size = 18) +
   theme(
     panel.grid.major.x = element_blank(),
     panel.grid.minor  = element_blank(),
-    axis.text.x       = element_text(angle = 45, hjust = 1),
-    legend.title      = element_blank()
+    axis.text.x       = element_text(angle = 45, hjust = 1, size = 16),
+    axis.text.y       = element_text(size = 16),
+    axis.title.y      = element_text(size = 18),
+    legend.title      = element_blank(),
+    legend.text       = element_text(size = 16)
   )
 
 # === Print figure ===
